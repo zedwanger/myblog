@@ -22,7 +22,7 @@ jobs:
       - name: FTP-Deploy-Action
         uses: SamKirkland/FTP-Deploy-Action@4.0.0
         with:
-          server: sftp://8.130.55.6 # 服务器地址和端口（可以填域名，不过我服务器做了全站加速会导向加速结点的IP，所以只能用服务器的IP）
+          server: 8.130.55.6 # 服务器地址和端口（可以填域名，不过我服务器做了全站加速会导向加速结点的IP，所以只能用服务器的IP）
           username: root # FTP用户名
           password: 2kT0I9IdEyZrddBh # FTP密码
           port: 22
