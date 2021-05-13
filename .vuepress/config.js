@@ -1,8 +1,16 @@
+const path = require("path");
 const themeConfig = require('./config/theme/')
 module.exports = {
   title: "zed-blog",
   description: "王泽东的个人博客",
   dest: "public",
+  configureWebpack: {
+    resolve: {
+      alias: {
+        "@": path.join(__dirname, "public", "assets"),
+      },
+    },
+  },
   head: [
     [
       "link",

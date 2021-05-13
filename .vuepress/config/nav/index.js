@@ -15,8 +15,20 @@ module.exports = {
             icon: "reco-message",
             items: [
                 {
-                    text: "测试文档",
-                    link: "/docs/theme-reco/",
+                    text: "react基础",
+                    link: "/docs/react/",
+                },
+                {
+                    text: "javascript",
+                    link: "/docs/javascript/01.md",
+                },
+                {
+                    text: "数据结构",
+                    link: "/docs/data-structure/01.md",
+                },
+                {
+                    text: "vue源码分析",
+                    link: "/docs/learn-vue-source-code/start/index.md",
                 },
             ],
         },

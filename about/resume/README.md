@@ -8,6 +8,7 @@ keys:
 publish: false
 ---
 
+## 基本信息表格
 <div class="ant-descriptions ant-descriptions-bordered">
   <div class="ant-descriptions-view">
     <table>
@@ -25,12 +26,20 @@ publish: false
           <td class="ant-descriptions-item-content" colspan="1">
             <span>男</span>
           </td>
-          <th class="ant-descriptions-item-label" colspan="1">
+          <th class="ant-descriptions-item-label" colspan="1" rowspan="3">
+            <div><span style="letter-spacing: 30px;">头</span>像</div>
+          </th>
+          <td style="padding: 4px;" class="ant-descriptions-item-content" colspan="1" rowspan="3">
+            <div style="display: flex;justify-content: center;align-items: center;">
+              <img style="width: 120px;" src="./images/头像.jpg" title="二东" />
+            </div>
+          </td>
+          <!-- <th class="ant-descriptions-item-label" colspan="1">
             <span>年龄</span>
           </th>
           <td class="ant-descriptions-item-content" colspan="1">
             <span>27</span>
-          </td>
+          </td> -->
         </tr>
         <tr class="ant-descriptions-row">
           <th class="ant-descriptions-item-label" colspan="1">
@@ -45,12 +54,12 @@ publish: false
           <td class="ant-descriptions-item-content" colspan="1">
             <span>13029547896</span>
           </td>
-          <th class="ant-descriptions-item-label" colspan="1">
+          <!-- <th class="ant-descriptions-item-label" colspan="1">
             <span>邮箱</span>
           </th>
           <td class="ant-descriptions-item-content" colspan="1">
             <span>1064296537@qq.com</span>
-          </td>
+          </td> -->
         </tr>
         <tr class="ant-descriptions-row">
           <th class="ant-descriptions-item-label" colspan="1">
@@ -64,6 +73,26 @@ publish: false
           </th>
           <td class="ant-descriptions-item-content" colspan="1">
             <span>前端工程师</span>
+          </td>
+          <!-- <th class="ant-descriptions-item-label" colspan="1">
+            <span>期望月薪</span>
+          </th>
+          <td class="ant-descriptions-item-content" colspan="1">
+            <span>20k-50k</span>
+          </td> -->
+        </tr>
+        <tr class="ant-descriptions-row">
+          <th class="ant-descriptions-item-label" colspan="1">
+            <span>年龄</span>
+          </th>
+          <td class="ant-descriptions-item-content" colspan="1">
+            <span>27</span>
+          </td>
+          <th class="ant-descriptions-item-label" colspan="1">
+            <span>邮箱</span>
+          </th>
+          <td class="ant-descriptions-item-content" colspan="1">
+            <span>1064296537@qq.com</span>
           </td>
           <th class="ant-descriptions-item-label" colspan="1">
             <span>期望月薪</span>
@@ -164,15 +193,34 @@ publish: false
   </div> 
 </div>
 
-<!-- ## 基本信息
-- 姓名：王泽东
-- 邮箱：1064296537@qq.com
-- 手机：13029547896
-- 照片: [生活照片](/)
+## 技能清单
+  **前言**<br>
+    互联网是一片汪洋大海，学的越多，忘的就越多😂
 
-## 这是我的个人简历
+  **程序语言**<br>
+  - `java` `javascript` `typescript` `python`
 
-正在火热更新中 -->
+  **前端**<br>
+  - js库：`jquery` `lodash` `moment.js` `three.js` `underscore.js`
+  - js框架：`vue.js` `react.js` `Angular`
+  - UI组件库 `ant-design` `element-ui` `iview` `vant-ui`
+  - 构建工具 `gulp` `rollup` `webpack` `parcel`
+
+  **java后端**<br>
+  - 表现层框架: `spring` `spring-mvc` `spring-boot` `spring-cloud`
+  - 持久层框架: `mybaits` `mybatis-plus` `hibernate`
+  - 构建工具: `Mawen` `Gradle`
+
+  **数据库**<br>
+  - `mysql` `sqlserver` `postgresql`
+
+## 项目经历
+  XXXXXXXXXXXX
+
+## 结语
+  当我真正想写一份好的简历时，我竟不知该如何写。我总觉得，我所学会的知识，我所经历的事情，凡此种种皆不足够证明我。我并非有野心，只是想发一分光。一路上的努力前行，只为了看一看命行至何处。
+
+<!-- 正在火热更新中 -->
 
 <style>
 [class*=ant-], [class*=ant-] *, [class*=ant-] :after, [class*=ant-] :before, [class^=ant-], [class^=ant-] *, [class^=ant-] :after, [class^=ant-] :before {

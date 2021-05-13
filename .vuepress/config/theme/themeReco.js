@@ -32,6 +32,8 @@ module.exports = {
   authorAvatar: "/avatar.jpg",
   record: "xxxx",
   startYear: "2017",
+  subSidebar: 'auto',
+  sidebarDepth: 10,
   // valine设置
   valineConfig: {
     appId: 'SVAuyxgAj1XTemP5AF9JeNR8-gzGzoHsz',
