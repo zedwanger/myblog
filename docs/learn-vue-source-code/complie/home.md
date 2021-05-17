@@ -1,7 +1,6 @@
 ---
-title: 模板编译篇综述
+title: 综述
 date: 2019-03-10
-# subSidebar: true
 publish: false
 ---
 

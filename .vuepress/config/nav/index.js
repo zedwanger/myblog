@@ -28,12 +28,8 @@ module.exports = {
                 },
                 {
                     text: "vue源码分析",
-                    link: "/docs/learn-vue-source-code/start/index.md",
-                },
-                {
-                    text: "测试@",
-                    link: "/docs/views/qaq/001.md",
-                },
+                    link: "/docs/learn-vue-source-code/start/home.md",
+                }
             ],
         },
         {
