@@ -6,6 +6,7 @@ sidebar: "auto"
 keys:
   - "e10adc3949ba59abbe56e057f20f883e"
 publish: false
+isShowComments: true
 ---
 
 ## 基本信息表格
@@ -198,7 +199,7 @@ publish: false
     互联网是一片汪洋大海，学的越多，忘的就越多😂
 
   **程序语言**<br>
-  - `java` `javascript` `typescript` `python`
+  - `java` `javascript` `typescript` `python` `node.js`
 
   **前端**<br>
   - js库：`jquery` `lodash` `moment.js` `three.js` `underscore.js`
@@ -210,6 +211,12 @@ publish: false
   - 表现层框架: `spring` `spring-mvc` `spring-boot` `spring-cloud`
   - 持久层框架: `mybaits` `mybatis-plus` `hibernate`
   - 构建工具: `Mawen` `Gradle`
+
+  **node后端**<br>
+  - 表现层框架: `koa` `express` `egg`
+  - 模板引擎: `nunjuncks`
+  - 持久层框架: `sequelize`
+  - 构建工具: `webpack` `gulp`
 
   **数据库**<br>
   - `mysql` `sqlserver` `postgresql`
