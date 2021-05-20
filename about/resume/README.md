@@ -1,6 +1,6 @@
 ---
 # title: "王泽东的个人简历"
-title: "王泽东"
+title: "简历"
 date: 2020-11-11 13:56:00
 sidebar: "auto"
 keys:
@@ -10,189 +10,9 @@ isShowComments: true
 ---
 
 ## 基本信息表格
-<div class="ant-descriptions ant-descriptions-bordered">
-  <div class="ant-descriptions-view">
-    <table>
-      <tbody>
-        <tr class="ant-descriptions-row">
-          <th class="ant-descriptions-item-label" colspan="1">
-            <span>姓名</span>
-          </th>
-          <td class="ant-descriptions-item-content" colspan="1">
-            <span>王泽东</span>
-          </td>
-          <th class="ant-descriptions-item-label" colspan="1">
-            <span>性别</span>
-          </th>
-          <td class="ant-descriptions-item-content" colspan="1">
-            <span>男</span>
-          </td>
-          <th class="ant-descriptions-item-label" colspan="1" rowspan="3">
-            <div><span style="letter-spacing: 30px;">头</span>像</div>
-          </th>
-          <td style="padding: 4px;" class="ant-descriptions-item-content" colspan="1" rowspan="3">
-            <div style="display: flex;justify-content: center;align-items: center;">
-              <img style="width: 120px;" src="./images/头像.jpg" title="二东" />
-            </div>
-          </td>
-          <!-- <th class="ant-descriptions-item-label" colspan="1">
-            <span>年龄</span>
-          </th>
-          <td class="ant-descriptions-item-content" colspan="1">
-            <span>27</span>
-          </td> -->
-        </tr>
-        <tr class="ant-descriptions-row">
-          <th class="ant-descriptions-item-label" colspan="1">
-            <span>工作经验</span>
-          </th>
-          <td class="ant-descriptions-item-content" colspan="1">
-            <span>十年</span>
-          </td>
-          <th class="ant-descriptions-item-label" colspan="1">
-            <span>电话</span>
-          </th>
-          <td class="ant-descriptions-item-content" colspan="1">
-            <span>13029547896</span>
-          </td>
-          <!-- <th class="ant-descriptions-item-label" colspan="1">
-            <span>邮箱</span>
-          </th>
-          <td class="ant-descriptions-item-content" colspan="1">
-            <span>1064296537@qq.com</span>
-          </td> -->
-        </tr>
-        <tr class="ant-descriptions-row">
-          <th class="ant-descriptions-item-label" colspan="1">
-            <span>住址</span>
-          </th>
-          <td class="ant-descriptions-item-content" colspan="1">
-            <span>哈尔滨市道里区新世纪家园</span>
-          </td>
-          <th class="ant-descriptions-item-label" colspan="1">
-            <span>求职意向</span>
-          </th>
-          <td class="ant-descriptions-item-content" colspan="1">
-            <span>前端工程师</span>
-          </td>
-          <!-- <th class="ant-descriptions-item-label" colspan="1">
-            <span>期望月薪</span>
-          </th>
-          <td class="ant-descriptions-item-content" colspan="1">
-            <span>20k-50k</span>
-          </td> -->
-        </tr>
-        <tr class="ant-descriptions-row">
-          <th class="ant-descriptions-item-label" colspan="1">
-            <span>年龄</span>
-          </th>
-          <td class="ant-descriptions-item-content" colspan="1">
-            <span>27</span>
-          </td>
-          <th class="ant-descriptions-item-label" colspan="1">
-            <span>邮箱</span>
-          </th>
-          <td class="ant-descriptions-item-content" colspan="1">
-            <span>1064296537@qq.com</span>
-          </td>
-          <th class="ant-descriptions-item-label" colspan="1">
-            <span>期望月薪</span>
-          </th>
-          <td class="ant-descriptions-item-content" colspan="1">
-            <span>20k-50k</span>
-          </td>
-        </tr>
-        <tr class="ant-descriptions-row">
-          <th class="ant-descriptions-item-label" colspan="1">
-            <span>学历</span>
-          </th>
-          <td class="ant-descriptions-item-content" colspan="1">
-            <span>211本科</span>
-          </td>
-          <th class="ant-descriptions-item-label" colspan="1">
-            <span>身份证号</span>
-          </th>
-          <td class="ant-descriptions-item-content" colspan="3">
-            <span>23022519931010561X</span>
-          </td>
-        </tr>
-        <tr class="ant-descriptions-row">
-          <th class="ant-descriptions-item-label" colspan="1">
-            <span>民族</span>
-          </th>
-          <td class="ant-descriptions-item-content" colspan="1">
-            <span>汉族</span>
-          </td>
-          <th class="ant-descriptions-item-label" colspan="1">
-            <span>籍贯</span>
-          </th>
-          <td class="ant-descriptions-item-content" colspan="3">
-            <span>黑龙江省甘南县查哈阳农垦社区B区六委7组54号</span>
-          </td>
-        </tr>
-        <tr class="ant-descriptions-row">
-          <th class="ant-descriptions-item-label" colspan="1">
-            <span>教育背景</span>
-          </th>
-          <td class="ant-descriptions-item-content" colspan="5">
-            <ul class="ant-timeline" style="margin-top: 12px;">
-              <li class="ant-timeline-item">
-                <div class="ant-timeline-item-tail"></div>
-                <div class="ant-timeline-item-head ant-timeline-item-head-blue"></div>
-                <div class="ant-timeline-item-content">2009-08 至 2012-06 就读于齐齐哈尔市学府高级中学。</div>
-              </li>
-              <li class="ant-timeline-item ant-timeline-item-last">
-                <div class="ant-timeline-item-tail"></div>
-                <div class="ant-timeline-item-head ant-timeline-item-head-blue"></div>
-                <div class="ant-timeline-item-content">2012-08 至 2016-07 就读于内蒙古呼和浩特市内蒙古大学交通学院。</div>
-              </li>
-            </ul>
-          </td>
-        </tr>
-        <tr class="ant-descriptions-row">
-          <th class="ant-descriptions-item-label" colspan="1">
-            <span>证书</span>
-          </th>
-          <td class="ant-descriptions-item-content" colspan="5">
-            大学英语四级证书、大学英语六级证书、内蒙古大学毕业证书、内蒙古大学工学学位证书、计算机二级证书
-          </td>
-        </tr>
-        <tr class="ant-descriptions-row">
-          <th class="ant-descriptions-item-label" colspan="1">
-            <span>工作经历</span>
-          </th>
-          <td class="ant-descriptions-item-content" colspan="5">
-            <ul class="ant-timeline" style="margin-top: 12px;">
-              <li class="ant-timeline-item">
-                <div class="ant-timeline-item-tail"></div>
-                <div class="ant-timeline-item-head ant-timeline-item-head-blue"></div>
-                <div class="ant-timeline-item-content">2016-08 至 2017-08 上海市喜丈网络科技有限公司</div>
-              </li>
-              <li class="ant-timeline-item">
-                <div class="ant-timeline-item-tail"></div>
-                <div class="ant-timeline-item-head ant-timeline-item-head-blue"></div>
-                <div class="ant-timeline-item-content">2017-08 至 2019-11 上海市亿锦网络科技有限公司</div>
-              </li>
-              <li class="ant-timeline-item ant-timeline-item-last">
-                <div class="ant-timeline-item-tail"></div>
-                <div class="ant-timeline-item-head ant-timeline-item-head-blue"></div>
-                <div class="ant-timeline-item-content">2020-04 至 现今 哈尔滨迈远电子商务有限公公司</div>
-              </li>
-            </ul>
-          </td>
-        </tr>
-        <tr class="ant-descriptions-row">
-          <th class="ant-descriptions-item-label" colspan="1">
-            <span>自我介绍</span>
-          </th>
-          <td class="ant-descriptions-item-content" colspan="5">
-            性格豁达、乐观, 不拘泥于形式，平时涉猎比较广泛, 喜欢学习了解新鲜的事物。
-          </td>
-        </tr>
-      </tbody>
-    </table>
-  </div> 
-</div>
+<basic-information></basic-information>
+
+
 
 ## 技能清单
   **前言**<br>
@@ -221,11 +41,89 @@ isShowComments: true
   **数据库**<br>
   - `mysql` `sqlserver` `postgresql`
 
-## 项目经历
-  XXXXXXXXXXXX
+## 项目经历(哈尔滨迈远电子商务有限公司)
 
-## 结语
-  当我真正想写一份好的简历时，我竟不知该如何写。我总觉得，我所学会的知识，我所经历的事情，凡此种种皆不足够证明我。我并非有野心，只是想发一分光。一路上的努力前行，只为了看一看命行至何处。
+  **OA系统**
+  - 介绍：前端vue全家桶 + iview + restfulAPI
+  - 系统模块
+    - 首页看板（待开发）
+    - 金币管理 （待开发）
+      - 金币日志
+      - 申请金币
+    - 金币商城
+      - 商品列表
+      - 商品管理
+      - 购买记录管理 （待开发）
+    - 组织人员
+      - 员工信息
+      - 组织机构
+      - 统计分析 （待开发）
+       - 年度分析
+       - 新员工分析
+       - 月度部门人员分析
+       - 离职数据分析
+      - 招聘信息
+      - 招聘统计
+      - 组织职能
+      - 合同信息
+    - 员工晋升
+      - 改善创新
+      - 全体积分记录
+      - 工作业绩
+      - 积分纪录
+      - 后台管理
+      - 积分排行
+    - OKR绩效
+      - 我的OKR
+      - 待我评分
+      - 全部OKR列表
+      - OKR周期管理
+      - 上下级关系
+    - 系统管理
+      - 菜单维护
+      - 用户管理
+      - 权限管理
+      - 日志管理
+      - 应用接入 （待开发）
+        - 应用分组
+        - 应用管理
+      - 接口维护
+      - 接口分组
+ 
+### OA系统项目截图（只展示非机密部分，你懂的😂）
+
+**首页**
+![An image](./images/OA-index.jpg)
+**金币管理**
+![An image](./images/OA-gold-mall-admin.jpg)
+**后台管理**
+![An image](./images/OA-back_stage_management.jpg)
+**合同信息**
+![An image](./images/OA-contract.jpg)
+**组织机构**
+![An image](./images/OA-department.jpg)
+
+后续正在完善中 --->
+
+<!-- 
+  业务管理系统叫ERP
+  客户管理系统叫CRM
+  内部办公系统叫OA
+  人力资源系统叫EHR
+  内部文件加密系统叫DLP
+  数据统计分析系统叫FOSS
+  财务办公系统使用金蝶，并进行了二次开发。                                                                                                                                                                              -->
+
+  <!--
+   ERP系统德邦都淘汰好几年了，他们现在用的是自己研发的FOSS系统。
+   办公系统用的还是OA，但是也有很多功能已经转移到CRM上去了。
+   收货开单、跟踪查询、清仓出库、车辆交接用的是FOSS，装卸车扫描用的是PDA，
+   快递分拣系统之前一直是在青岛有试点，不知道现在有没有普及使用。
+   他们安排司机接货，专门给司机整了个APP。其他也没什么现代信息化技术了。 
+   -->
+
+<!-- ## 结语
+  当我真正想写一份好的简历时，我竟不知该如何写。我总觉得，我所学会的知识，我所经历的事情，凡此种种皆不足够证明我。我并非有野心，只是想发一分光。一路上的努力前行，只为了看一看命行至何处。 -->
 
 <!-- 正在火热更新中 -->
 
