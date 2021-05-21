@@ -15,93 +15,118 @@ isShowComments: true
 
 
 ## 技能清单
-  **前言**<br>
-    互联网是一片汪洋大海，学的越多，忘的就越多😂
+**前言**<br>
+  互联网是一片汪洋大海，学的越多，忘的就越多😂
 
-  **程序语言**<br>
-  - `java` `javascript` `typescript` `python` `node.js`
+**程序语言**<br>
+- `java` `javascript` `typescript` `python` `node.js`
 
-  **前端**<br>
-  - js库：`jquery` `lodash` `moment.js` `three.js` `underscore.js`
-  - js框架：`vue.js` `react.js` `Angular`
-  - UI组件库 `ant-design` `element-ui` `iview` `vant-ui`
-  - 构建工具 `gulp` `rollup` `webpack` `parcel`
+**前端**<br>
+- js库：`jquery` `lodash` `moment.js` `three.js` `underscore.js`
+- js框架：`vue.js` `react.js` `Angular`
+- UI组件库 `ant-design` `element-ui` `iview` `vant-ui`
+- 构建工具 `gulp` `rollup` `webpack` `parcel`
 
-  **java后端**<br>
-  - 表现层框架: `spring` `spring-mvc` `spring-boot` `spring-cloud`
-  - 持久层框架: `mybaits` `mybatis-plus` `hibernate`
-  - 构建工具: `Mawen` `Gradle`
+**java后端**<br>
+- 表现层框架: `spring` `spring-mvc` `spring-boot` `spring-cloud`
+- 持久层框架: `mybaits` `mybatis-plus` `hibernate`
+- 构建工具: `Mawen` `Gradle`
 
-  **node后端**<br>
-  - 表现层框架: `koa` `express` `egg`
-  - 模板引擎: `nunjuncks`
-  - 持久层框架: `sequelize`
-  - 构建工具: `webpack` `gulp`
+**node后端**<br>
+- 表现层框架: `koa` `express` `egg`
+- 模板引擎: `nunjuncks`
+- 持久层框架: `sequelize`
+- 构建工具: `webpack` `gulp`
 
-  **数据库**<br>
-  - `mysql` `sqlserver` `postgresql`
+**数据库**<br>
+- `mysql` `sqlserver` `postgresql`
 
 ## 项目经历(哈尔滨迈远电子商务有限公司)
 
-  **OA系统**
-  - 介绍：前端vue全家桶 + iview + restfulAPI
-  - 系统模块
-    - 首页看板（待开发）
-    - 金币管理 （待开发）
-      - 金币日志
-      - 申请金币
-    - 金币商城
-      - 商品列表
-      - 商品管理
-      - 购买记录管理 （待开发）
-    - 组织人员
-      - 员工信息
-      - 组织机构
-      - 统计分析 （待开发）
-       - 年度分析
-       - 新员工分析
-       - 月度部门人员分析
-       - 离职数据分析
-      - 招聘信息
-      - 招聘统计
-      - 组织职能
-      - 合同信息
-    - 员工晋升
-      - 改善创新
-      - 全体积分记录
-      - 工作业绩
-      - 积分纪录
-      - 后台管理
-      - 积分排行
-    - OKR绩效
-      - 我的OKR
-      - 待我评分
-      - 全部OKR列表
-      - OKR周期管理
-      - 上下级关系
-    - 系统管理
-      - 菜单维护
-      - 用户管理
-      - 权限管理
-      - 日志管理
-      - 应用接入 （待开发）
-        - 应用分组
-        - 应用管理
-      - 接口维护
-      - 接口分组
- 
-### OA系统项目截图（只展示非机密部分，你懂的😂）
+### OA系统
+- 介绍：前端vue全家桶 + iview + restfulAPI, 后端：thinkphp, 数据库：mysql
+- 系统模块（只展示一级菜单）
+  - 首页看板（待开发）
+  - 金币管理 （待开发）
+  - 金币商城
+  - 组织人员
+  - 员工晋升
+  - OKR绩效
+  - 系统管理
 
-**首页**
+**OA系统项目截图（只展示非机密部分，你懂的😂）**
+
+- **首页**
 ![An image](./images/OA-index.jpg)
-**金币管理**
+- **金币管理**
 ![An image](./images/OA-gold-mall-admin.jpg)
-**后台管理**
+- **后台管理**
 ![An image](./images/OA-back_stage_management.jpg)
-**合同信息**
+- **合同信息**
 ![An image](./images/OA-contract.jpg)
-**组织机构**
+- **组织机构**
 ![An image](./images/OA-department.jpg)
+
+### MES系统
+- 介绍：前端vue全家桶 + element-UI + vue-apollo + graphqlApi, 后端：nodejs + postgraphile, 数据库：postgresql
+- 系统模块（只展示一级菜单）
+  - 数据看板
+  - 仓库管理
+  - 商品管理
+  - 生产单管理
+  - 流程管理
+  - 绩效管理
+  - 工厂管理
+  - 异常处理
+  - 快捷功能
+  - 系统管理
+  - 产品线
+  - 任务管理
+
+**MES系统项目截图**
+
+- **数据看板**
+![An image](./images/MES-process-kanban.jpg)
+- **信息校验**
+![An image](./images/MES-infomation-check.jpg)
+- **自定义信息查询**
+![An image](./images/MES-custom-info.jpg)
+- **产品列表**
+![An image](./images/MES-product-list.jpg)
+- **生产单交接**
+![An image](./images/MES-order-handover.jpg)
+
+
+### MYJIT系统
+- 介绍：前端vue全家桶 + element-UI + vue-apollo + graphqlApi, 后端：nodejs + postgraphile, 数据库：postgresql
+- 系统模块（只展示一级菜单）
+  - 用户登录
+    - 概况
+    - 产品管理
+    - 采购管理
+    - AI管理
+    - 操作记录
+    - 厂商管理
+    - 系统管理
+  - 供应商登录
+    - 接单管理
+    - 出货管理
+    - 异常管理
+    - 加急出货
+    - 待接单管理
+
+**MYJIT系统项目截图**
+
+- **产品管理**
+![An image](./images/MYJIT-product-management.jpg)
+- **接单管理**
+![An image](./images/MYJIT-receiving-orders.jpg)
+- **厂商管理**
+![An image](./images/MYJIT-supplier-management.jpg)
+- **待工厂接单**
+![An image](./images/MYJIT-waiting-order.jpg)
+- **加急出货**
+![An image](./images/MYJIT-urgent-shipment.jpg)
 
 后续正在完善中 --->
 

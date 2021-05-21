@@ -205,7 +205,7 @@
         </div>
       </div>
     </div>
-    <div style="margin-top: 6px;" class="clearfix">
+    <div style="margin-top: 6px;margin-bottom: 1.5rem" class="clearfix">
       <button style="float: right;" @click="print" type="button" class="ant-btn ant-btn-primary ant-btn-lg"><span>打印</span></button>
     </div>
   </div>
