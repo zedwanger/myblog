@@ -1,7 +1,12 @@
 ---
 title: react基础
 date: 2019-04-29
-publish: false
+publish: true
+categories:
+  - JavaScript
+tags: 
+  - JavaScript
+  - React
 ---
 
 ## 1. 什么是 React?

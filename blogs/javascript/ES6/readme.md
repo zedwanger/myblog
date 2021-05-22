@@ -1,7 +1,6 @@
 ---
 title: ES6-JS进阶之面向对象-class
 date: 2020-11-10 15:16:00
-sidebar: "auto"
 categories:
   - JavaScript
 tags: 

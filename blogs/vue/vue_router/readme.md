@@ -7,7 +7,7 @@ categories:
 tags:
   - Vue
   - VueRouter
-# publish: false
+sticky: 2
 ---
 
 ::: tip
@@ -1273,6 +1273,3 @@ export default {
 我们把VueRouter源码看完了。总体来说不是很复杂。**总的来说就是使用Vue.util.defineReactive将实例的_route属性设置为响应式。而push, replace方法会主动更新属性_route。而go，back，或者点击前进后退的按钮则会在onhashchange或者onpopstate的回调中更新_route，而_route的更新会触发RoterView的重新渲染**
 
 但是也略过了比如keep-live，滚动行为的处理。我打算接下来，结合VueRouter核心原理实现了一个简易版的VueRouter,当然现在还没有开始。
-
-- > [最新博客链接](https://tsanfer.xyz/views/frontEnd/vuepress_theme_reco-Github_Actions.html)
-- > [Github 链接](https://github.com/Tsanfer/vuepress_theme_reco-Github_Actions)
