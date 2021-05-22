@@ -2,5 +2,5 @@ node_modules/
 .temp
 yarn.lock
 yarn.error
-public
+.vuepress/dist
 .vscode
