@@ -4,7 +4,7 @@ module.exports = {
   title: "zed-blog",
   description: "王泽东的个人博客",
   // dest: "public",
-  base: "vuepress-blog",
+  base: "/vuepress-blog/",
   configureWebpack: {
     resolve: {
       alias: {
