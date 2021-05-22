@@ -4,7 +4,7 @@
 set -e
 
 # 生成静态文件
-# npm run build
+npm run build
 
 # 进入生成的文件夹（ 进入VuePress打包后的文件夹根目录 ）
 cd .vuepress/dist
