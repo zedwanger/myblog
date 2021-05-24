@@ -3,8 +3,7 @@ const themeConfig = require('./config/theme/')
 module.exports = {
   title: "zed-blog",
   description: "王泽东的个人博客",
-  // dest: "public",
-  base: "/vuepress-blog/",
+  dest: "public",
   configureWebpack: {
     resolve: {
       alias: {
