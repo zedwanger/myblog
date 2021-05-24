@@ -1,6 +1,6 @@
 ---
 # title: "王泽东的个人简历"
-title: "简历"
+title: "简历a"
 date: 2020-11-11 13:56:00
 sidebar: "auto"
 keys:
