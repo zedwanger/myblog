@@ -43,7 +43,7 @@ module.exports = {
     // }
   // },
   markdown: {
-    lineNumbers: true,
+    lineNumbers: true
   },
   plugins: {
     //一键复制代码插件: "vuepress-plugin-code-copy": "^1.0.6",

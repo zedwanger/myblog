@@ -320,19 +320,19 @@ son.sum() // 8
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201105194549612.png)
 
 ### 4.1 点击Tab栏能实现切换 Tab栏和内容
-![An image](./images/1.gif)
+![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/blogs/javascript/es6/img/1.gif)
 
 ### 4.2 点击右上角×号能删除当前栏目和内容
-![An image](./images/2.gif)
+![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/blogs/javascript/es6/img/2.gif)
 
 ### 4.3 点击加号能实现增加Tab栏效果
-![An image](./images/3.gif)
+![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/blogs/javascript/es6/img/3.gif)
 
 ### 4.4 双击Tab栏，可以编辑Tab栏名称
-![An image](./images/4.gif)
+![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/blogs/javascript/es6/img/4.gif)
 
 ### 4.5 双击内容，可编辑内容
-![An image](./images/5.gif)
+![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/blogs/javascript/es6/img/5.gif)
 
 
 

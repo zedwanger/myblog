@@ -57,15 +57,15 @@ isShowComments: true
 **OA系统项目截图（只展示非机密部分，你懂的😂）**
 
 - **首页**
-![An image](./images/OA-index.jpg)
+![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/OA-index.jpg)
 - **金币管理**
-![An image](./images/OA-gold-mall-admin.jpg)
+![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/OA-gold-mall-admin.jpg)
 - **后台管理**
-![An image](./images/OA-back_stage_management.jpg)
+![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/OA-back_stage_management.jpg)
 - **合同信息**
-![An image](./images/OA-contract.jpg)
+![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/OA-contract.jpg)
 - **组织机构**
-![An image](./images/OA-department.jpg)
+![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/OA-department.jpg)
 
 ### MES系统
 - 介绍：前端vue全家桶 + element-UI + vue-apollo + graphqlApi, 后端：nodejs + postgraphile, 数据库：postgresql
@@ -86,15 +86,15 @@ isShowComments: true
 **MES系统项目截图**
 
 - **数据看板**
-![An image](./images/MES-process-kanban.jpg)
+![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/MES-process-kanban.jpg)
 - **信息校验**
-![An image](./images/MES-infomation-check.jpg)
+![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/MES-infomation-check.jpg)
 - **自定义信息查询**
-![An image](./images/MES-custom-info.jpg)
+![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/MES-custom-info.jpg)
 - **产品列表**
-![An image](./images/MES-product-list.jpg)
+![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/MES-product-list.jpg)
 - **生产单交接**
-![An image](./images/MES-order-handover.jpg)
+![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/MES-order-handover.jpg)
 
 
 ### MYJIT系统
@@ -118,15 +118,15 @@ isShowComments: true
 **MYJIT系统项目截图**
 
 - **产品管理**
-![An image](./images/MYJIT-product-management.jpg)
+![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/MYJIT-product-management.jpg)
 - **接单管理**
-![An image](./images/MYJIT-receiving-orders.jpg)
+![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/MYJIT-receiving-orders.jpg)
 - **厂商管理**
-![An image](./images/MYJIT-supplier-management.jpg)
+![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/MYJIT-supplier-management.jpg)
 - **待工厂接单**
-![An image](./images/MYJIT-waiting-order.jpg)
+![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/MYJIT-waiting-order.jpg)
 - **加急出货**
-![An image](./images/MYJIT-urgent-shipment.jpg)
+![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/MYJIT-urgent-shipment.jpg)
 
 后续正在完善中 --->
 
