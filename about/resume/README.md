@@ -130,6 +130,11 @@ isShowComments: true
 
 后续正在完善中 --->
 
+## 致谢
+- [感谢君哥!](https://github.com/zpj80231/znote)
+- [感谢午后南杂大佬!](https://github.com/vuepress-reco/vuepress-theme-reco)
+- [感谢慕言!](https://mu-yan.cn/)
+
 <!-- 
   业务管理系统叫ERP
   客户管理系统叫CRM

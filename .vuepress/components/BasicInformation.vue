@@ -30,7 +30,7 @@
                   <div
                     style="display: flex;justify-content: center;align-items: center;"
                   >
-                    <img style="width: 120px;" src="/avatar.jpg" title="二东" />
+                    <img style="width: 120px;" :src="$withBase('/avatar.jpg')" title="二东" />
                   </div>
                 </td>
                 <!-- <th class="ant-descriptions-item-label" colspan="1">
@@ -409,6 +409,9 @@ button{
 
 <script>
 export default {
+  mounted() {
+    console.log(this.$withBase);
+  },
   methods: {
     print() {
       let el = document.getElementById("printcontent");
