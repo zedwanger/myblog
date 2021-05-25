@@ -409,9 +409,6 @@ button{
 
 <script>
 export default {
-  mounted() {
-    console.log(this.$withBase);
-  },
   methods: {
     print() {
       let el = document.getElementById("printcontent");
