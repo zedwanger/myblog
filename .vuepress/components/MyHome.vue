@@ -60,7 +60,8 @@ export default {
     targetA.addEventListener('click', e => { // 添加点击事件
       this.scrollFn();
     })
-    this.bubble()
+    // 气泡效果
+    // this.bubble()
   },
   methods: {
     scrollFn() {

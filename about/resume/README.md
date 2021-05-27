@@ -137,6 +137,7 @@ isShowComments: true
 - [感谢GO学院老师的指导!](https://www.golangroadmap.com/)
 <!-- - [鹅不食草!](https://haveyuan.github.io/) -->
 <!-- - [summer!](https://summer1874.top/) -->
+<!-- - [小熊饼干!](https://github.com/JabinPeng/pengBlog) -->
 
 <!-- 
   业务管理系统叫ERP
