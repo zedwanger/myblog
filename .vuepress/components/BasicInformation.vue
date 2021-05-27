@@ -30,7 +30,7 @@
                   <div
                     style="display: flex;justify-content: center;align-items: center;"
                   >
-                    <img style="width: 120px;" :src="$withBase('/avatar.jpg')" title="二东" />
+                    <img style="width: 120px;" src="https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/avatar.jpg" title="王二东" />
                   </div>
                 </td>
                 <!-- <th class="ant-descriptions-item-label" colspan="1">
