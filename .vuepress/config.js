@@ -17,7 +17,7 @@ module.exports = {
       "link",
       {
         rel: "icon",
-        href: "/favicon.ico",
+        href: "https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/favicon.ico",
       },
     ],
     [
@@ -49,7 +49,7 @@ module.exports = {
     //一键复制代码插件: "vuepress-plugin-code-copy": "^1.0.6",
     "vuepress-plugin-code-copy": true,
     "dynamic-title": {
-      showIcon: "/favicon.ico",
+      showIcon: "https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/favicon.ico",
       showText: "(/≧▽≦/)咦！又好了！",
       hideIcon: "/failure.ico",
       hideText: "(●—●)喔哟，崩溃啦！",
