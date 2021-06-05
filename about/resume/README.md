@@ -12,7 +12,11 @@ isShowComments: true
 ## 基本信息表格
 <basic-information></basic-information>
 
+## 毕业证
+![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/biyezheng.png)
 
+## 学位证
+![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/xueweizheng.png)
 
 ## 技能清单
 **前言**<br>

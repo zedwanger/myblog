@@ -30,7 +30,7 @@
                   <div
                     style="display: flex;justify-content: center;align-items: center;"
                   >
-                    <img style="width: 120px;" src="https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/avatar.jpg" title="王二东" />
+                    <img style="width: 120px;" src="https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/avatar.jpg" title="王泽东" />
                   </div>
                 </td>
                 <!-- <th class="ant-descriptions-item-label" colspan="1">
@@ -176,7 +176,7 @@
                         class="ant-timeline-item-head ant-timeline-item-head-blue"
                       ></div>
                       <div class="ant-timeline-item-content">
-                        2016-08 至 2019-08 上海市中通吉网络技术有限公司
+                        2016-08 至 2019-08 上海市任意门科技有限公司， 职位：高级前端工程师
                       </div>
                     </li>
                     <li class="ant-timeline-item ant-timeline-item-last">
@@ -185,7 +185,7 @@
                         class="ant-timeline-item-head ant-timeline-item-head-blue"
                       ></div>
                       <div class="ant-timeline-item-content">
-                        2020-04 至 现今 哈尔滨迈远电子商务有限公公司
+                        2020-04 至 现今 哈尔滨迈远电子商务有限公公司， 职位: nodejs全栈工程师兼前端架构， 职务: 系统组主管。
                       </div>
                     </li>
                   </ul>
