@@ -65,7 +65,7 @@
                   <span>住址</span>
                 </th>
                 <td class="ant-descriptions-item-content" colspan="1">
-                  <span>哈尔滨市道里区新世纪家园</span>
+                  <span>哈尔滨市松北区万达花园C7</span>
                 </td>
                 <th class="ant-descriptions-item-label" colspan="1">
                   <span>求职意向</span>
@@ -97,7 +97,7 @@
                   <span>期望月薪</span>
                 </th>
                 <td class="ant-descriptions-item-content" colspan="1">
-                  <span>20k-50k</span>
+                  <span>12k-20k</span>
                 </td>
               </tr>
               <tr class="ant-descriptions-row">
@@ -176,7 +176,67 @@
                         class="ant-timeline-item-head ant-timeline-item-head-blue"
                       ></div>
                       <div class="ant-timeline-item-content">
-                        2016-08 至 2019-08 上海市任意门科技有限公司， 职位：高级前端工程师
+                        2016-08 至 2019-08 上海市任意门科技有限公司， 职位：中级前端工程师
+                      </div>
+                    </li>
+                    <li class="ant-timeline-item">
+                      <div class="ant-timeline-item-tail"></div>
+                      <div
+                        class="ant-timeline-item-head ant-timeline-item-head-blue"
+                      ></div>
+                      <div class="ant-timeline-item-content">
+                        2016-08 至 2018-05 负责公司内部CMS系统中的内容管理、用户中心、系统管理、会员管理、留言看板、系统日志、管理等模块的静态页面开发，此系统是公司核心系统，大量业务都是服务于公司的运营部门。
+                      </div>
+                    </li>
+                    <li class="ant-timeline-item">
+                      <div class="ant-timeline-item-tail"></div>
+                      <div
+                        class="ant-timeline-item-head ant-timeline-item-head-blue"
+                      ></div>
+                      <div class="ant-timeline-item-content">
+                        2018-05 至 2019-08 负责soul社交平台公众号开发、soul 微信小程序开发，soul hybrid app 开发。主要模块有：星球匹配导航、广场导航、聊天导航、个人中心导航。
+                        小程序使用原生微信小程序进行开发（封装了生成Page对象的函数工具库）。soul hybrid app 一开始使用uniapp进行开发，由于uniapp bug多且运行效率低， 后更换为react native进行开发。
+                      </div>
+                    </li>
+                    
+                    <li class="ant-timeline-item">
+                      <div class="ant-timeline-item-tail"></div>
+                      <div
+                        class="ant-timeline-item-head ant-timeline-item-head-blue"
+                      ></div>
+                      <div class="ant-timeline-item-content">
+                        2020-05 至 现今 哈尔滨迈远电子商务有限公公司， 职位: nodejs全栈工程师， 职务: 系统组主管。
+                      </div>
+                    </li>
+                    <li class="ant-timeline-item">
+                      <div class="ant-timeline-item-tail"></div>
+                      <div
+                        class="ant-timeline-item-head ant-timeline-item-head-blue"
+                      ></div>
+                      <div class="ant-timeline-item-content">
+                        2020-05 至 2020-09 MES系统： MES系统是公司内部的工厂管理系统，使用于广州分公司工厂，
+                        目的是管控工厂车间生产制造的过程以及库存管理、质量管理、人力资源管理、工作中心/设备管理、工具工装管理、采购管理、成本管理、
+                        项目看板管理、生产过程控制、底层数据集成分析、上层数据集成分解等管理模块，为企业打造一个扎实、可靠、全面、可行的制造协同管理平台。
+                      </div>
+                    </li>
+                    <li class="ant-timeline-item">
+                      <div class="ant-timeline-item-tail"></div>
+                      <div
+                        class="ant-timeline-item-head ant-timeline-item-head-blue"
+                      ></div>
+                      <div class="ant-timeline-item-content">
+                        2020-11 至今 负责MYREVIEW的后台开发（nodejs egg）：商品评论系统为商城系统的子系统，嵌入到商城页面的底部，可以根据不同站点，不同的产品生成商品评论页面，可以发送邮件邀请购买商品的人评论此商品。其开发的原因主要是兼容老商城系统的前端页面。
+                        商城系统前端工程师通过引入打包好的前端js库进行业务配置即可生成对应的评论列表页。此系统的后台管理系统可以对站点，语言进行动态配置。根据XML配置文件定时从ERP系统拉取数据，也可以手动进行数据同步。
+                      </div>
+                    </li>
+                    <li class="ant-timeline-item">
+                      <div class="ant-timeline-item-tail"></div>
+                      <div
+                        class="ant-timeline-item-head ant-timeline-item-head-blue"
+                      ></div>
+                      <div class="ant-timeline-item-content">
+                        2020-09 至 2021-02 MYJIT系统：MYJIT系统是公司内部的订单管理系统，其主要作用是接收ERP系统的订单，然后经由AI部门的审核，修改之后分发到工厂系统之中。
+                        系统的模块有：概况、产品管理、采购管理、AI管理、操作记录、厂商管理、系统管理、供应商登录、接单管理、出货管理、异常管理、加急出货、待接单管理。
                       </div>
                     </li>
                     <li class="ant-timeline-item ant-timeline-item-last">
@@ -185,7 +245,8 @@
                         class="ant-timeline-item-head ant-timeline-item-head-blue"
                       ></div>
                       <div class="ant-timeline-item-content">
-                        2020-04 至 现今 哈尔滨迈远电子商务有限公公司， 职位: nodejs全栈工程师兼前端架构， 职务: 系统组主管。
+                        2021-02 至今 OA系统：OA系统是公司内部的人资部门使用的办公系统，用于个性化管理公司的员工晋升，组织架构人员，OKR绩效，金币管理，金币商城等，
+                        对接钉钉审批流业务的后台管理，记录员工的考勤等功能。目前系统还处于开发中。项目截图可以在本人的个人博客中查看:https://zedwanger.github.io/myblog/, 简历密码: 123456
                       </div>
                     </li>
                   </ul>
@@ -193,11 +254,10 @@
               </tr>
               <tr class="ant-descriptions-row">
                 <th class="ant-descriptions-item-label" colspan="1">
-                  <span>自我介绍</span>
+                  <span>自我评价</span>
                 </th>
                 <td class="ant-descriptions-item-content" colspan="5">
-                  性格豁达、乐观, 不拘泥于形式，平时涉猎比较广泛,
-                  喜欢学习了解新鲜的事物。
+                  性格豁达、乐观, 不拘泥于形式，平时涉猎比较广泛,喜欢学习了解新鲜的事物。
                 </td>
               </tr>
             </tbody>
