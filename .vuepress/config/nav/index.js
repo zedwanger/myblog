@@ -15,6 +15,10 @@ module.exports = {
             icon: "reco-message",
             items: [
                 {
+                    text: "报表文档",
+                    link: "/docs/report/01.md",
+                },
+                {
                     text: "react基础",
                     link: "/docs/react/",
                 },

@@ -2,6 +2,6 @@ node_modules/
 .temp
 yarn.lock
 yarn.error
-public
+# public
 .vscode
 .DS_Store
