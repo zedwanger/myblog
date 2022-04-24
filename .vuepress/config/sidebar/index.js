@@ -1,6 +1,6 @@
 module.exports = {
     'zh': {
-        "/docs/report/": ["01", "02"],
+        "/docs/report/": ["01", "02", "03", "04"],
         "/docs/javascript/": ["01", "02", "03", "04", "05"],
         "/docs/data-structure/": ["01", "02", "03", "04", "05", "06"],
         "/docs/learn-vue-source-code/": [
