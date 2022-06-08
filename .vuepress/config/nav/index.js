@@ -36,11 +36,11 @@ module.exports = {
                 }
             ],
         },
-        // {
-        //     text: "个人简历",
-        //     icon: "reco-account",
-        //     link: "/about/resume/"
-        // },
+        {
+            text: "个人简历",
+            icon: "reco-account",
+            link: "/about/resume/"
+        },
         {
             text: "关于我",
             icon: "reco-message",
