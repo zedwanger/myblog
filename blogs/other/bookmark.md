@@ -12,4 +12,6 @@ tags:
 - > [各种树结构](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - > [免费的编程中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
 - > [webstorm激活码](http://lookdiv.com/) <!-- 密码：5263 -->
+- > [奇链](http://www.dbyun.net/)
+- > [JAVA全栈知识体系](https://pdai.tech/)
 
