@@ -15,5 +15,8 @@
     "vuepress-plugin-sakura": "^1.1.0",
     "vuepress-theme-reco": "1.6.6"
   },
-  "description": "王泽东的个人博客"
+  "description": "王泽东的个人博客",
+  "dependencies": {
+    "vue": "^2.7.14"
+  }
 }
