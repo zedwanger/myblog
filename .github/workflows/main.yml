@@ -11,17 +11,18 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      # 拉取 github 仓库代码
-      - uses: actions/checkout@v3
-      # 设定 node 环境
-      - uses: actions/setup-node@v3
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v1
         with:
           node-version: '14'
-          # 设置发包 npm 地址仓库
-          registry-url: https://registry.npmjs.org
           
       - name: Build
-      - run: npm install && npm run build
+      - run: yarn install && yarn build
         
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
