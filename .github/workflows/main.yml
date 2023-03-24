@@ -16,9 +16,14 @@ jobs:
         with:
           persist-credentials: false
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: '14'
+          
       - name: Build
-        run: npm install && npm run build
-
+      - run: npm install && npm run build
+        
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
