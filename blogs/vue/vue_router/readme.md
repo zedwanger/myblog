@@ -16,7 +16,7 @@ VueRoter 即 Vue 路由
 
 ## 流程图
 
-![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/blogs/vue/vue-router/img/vue-router.png)
+![An image](https://v1.ax1x.com/2023/03/24/065BHV.png)
 
 ## 前置基础知识
 
@@ -701,7 +701,7 @@ replace (location, onComplete, onAbort) {
 }
 ```
 **transitionTo, confirmTransition, updateRoute**
-![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/blogs/vue/vue-router/img/push.png)
+![An image](https://v1.ax1x.com/2023/03/24/06xoz7.png)
 transitionTo的location参数是我们的目标路径, 可以是string或者RawLocation对象。我们通过router.match方法(我们在在matcher介绍过)，router.match会返回我们的目标路由对象。紧接着我们会调用confirmTransition函数。
 ```js
 transitionTo (location, onComplete, onAbort) {
@@ -728,7 +728,7 @@ if (
 }
 ```
 接着我们调用resolveQueue方法，resolveQueue接受当前的路由和目标的路由的matched属性作为参数，resolveQueue的工作方式可以如下图所示。我们会逐一比较两个数组的路由，寻找出需要销毁的，需要更新的，需要激活的路由，并返回它们（因为我们需要执行它们不同的路由守卫）
-![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/blogs/vue/vue-router/img/current-next.png)
+![An image](https://v1.ax1x.com/2023/03/24/06xeGa.png)
 ```js
 function resolveQueue (
   current

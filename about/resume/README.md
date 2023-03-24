@@ -13,10 +13,10 @@ isShowComments: true
 <basic-information></basic-information>
 
 ## 毕业证
-![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/biyezheng.png)
+![ppwJVaj.md.png](https://v1.ax1x.com/2023/03/24/02ybfw.png)
 
 ## 学位证
-![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/xueweizheng.png)
+![ppwJZIs.md.png](https://v1.ax1x.com/2023/03/24/02yh36.png)
 
 ## 技能清单
 **前言**<br>
@@ -61,15 +61,15 @@ isShowComments: true
 **OA系统项目截图（只展示非机密部分，你懂的😂）**
 
 - **首页**
-![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/OA-index.jpg)
+![An image](https://v1.ax1x.com/2023/03/24/02yZOe.jpg)
 - **金币管理**
-![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/OA-gold-mall-admin.jpg)
+![An image](https://v1.ax1x.com/2023/03/24/02yo7w.jpg)
 - **后台管理**
-![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/OA-back_stage_management.jpg)
+![An image](https://v1.ax1x.com/2023/03/24/02y2dt.jpg)
 - **合同信息**
-![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/OA-contract.jpg)
+![An image](https://v1.ax1x.com/2023/03/24/02yFwb.jpg)
 - **组织机构**
-![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/OA-department.jpg)
+![An image](https://v1.ax1x.com/2023/03/24/02ydiP.jpg)
 
 ### MES系统
 - 介绍：前端vue全家桶 + element-UI + vue-apollo + graphqlApi, 后端：nodejs + postgraphile, 数据库：postgresql
@@ -90,15 +90,15 @@ isShowComments: true
 **MES系统项目截图**
 
 - **数据看板**
-![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/MES-process-kanban.jpg)
+![An image](https://v1.ax1x.com/2023/03/24/02y4us.jpg)
 - **信息校验**
-![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/MES-infomation-check.jpg)
+![An image](https://v1.ax1x.com/2023/03/24/02yrYU.jpg)
 - **自定义信息查询**
-![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/MES-custom-info.jpg)
+![An image](https://v1.ax1x.com/2023/03/24/02yYgZ.jpg)
 - **产品列表**
-![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/MES-product-list.jpg)
+![An image](https://v1.ax1x.com/2023/03/24/02yCOa.jpg)
 - **生产单交接**
-![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/MES-order-handover.jpg)
+![An image](https://v1.ax1x.com/2023/03/24/02ytdq.jpg)
 
 
 ### MYJIT系统
@@ -122,15 +122,15 @@ isShowComments: true
 **MYJIT系统项目截图**
 
 - **产品管理**
-![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/MYJIT-product-management.jpg)
+![An image](https://v1.ax1x.com/2023/03/24/02yJi7.jpg)
 - **接单管理**
-![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/MYJIT-receiving-orders.jpg)
+![An image](https://v1.ax1x.com/2023/03/24/02yjlI.jpg)
 - **厂商管理**
-![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/MYJIT-supplier-management.jpg)
+![An image](https://v1.ax1x.com/2023/03/24/02yihG.jpg)
 - **待工厂接单**
-![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/MYJIT-waiting-order.jpg)
+![An image](https://v1.ax1x.com/2023/03/24/02ysrB.jpg)
 - **加急出货**
-![An image](https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/MYJIT-urgent-shipment.jpg)
+![An image](https://v1.ax1x.com/2023/03/24/02yfTJ.jpg)
 
 后续正在完善中 --->
 

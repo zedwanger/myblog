@@ -30,7 +30,7 @@
                   <div
                     style="display: flex;justify-content: center;align-items: center;"
                   >
-                    <img style="width: 120px;" src="https://cdn.jsdelivr.net/gh/zedwanger/pic-bed/img/avatar.jpg" title="王泽东" />
+                    <img style="width: 120px;" src="https://s1.ax1x.com/2023/03/23/ppwDn76.jpg" title="王泽东" />
                   </div>
                 </td>
                 <!-- <th class="ant-descriptions-item-label" colspan="1">
