@@ -12,7 +12,6 @@ isShowComments: true
 ## 基本信息表格
 <basic-information></basic-information>
 
-
 ## 毕业证
 ![ppwJVaj.md.png](https://v1.ax1x.com/2023/03/24/02ybfw.png)
 
