@@ -30,18 +30,6 @@ module.exports = {
   ],
   theme: "reco",
   themeConfig: themeConfig,
-  // locales: {
-  // '/': {
-  //   lang: 'zh-CN', // 将会被设置为 <html> 的 lang 属性
-  //   title: "ZED",
-  //   description: '一款简洁而优雅的 vuepress 博客 & 文档 主题。'
-  // },
-  // '/en/': {
-  //   lang: 'en-US',
-  //   title: "vuepress-theme-reco",
-  //   description: 'A simple and beautiful vuepress Blog & Doc theme.'
-  // }
-  // },
   markdown: {
     lineNumbers: true,
   },
