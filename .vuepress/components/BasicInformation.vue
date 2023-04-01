@@ -51,7 +51,7 @@
                   <span>电话</span>
                 </th>
                 <td class="ant-descriptions-item-content ant-border-right" colspan="4">
-                  <span>13029547896</span>
+                  <span>16563467777</span>
                 </td>
                 <!-- <th class="ant-descriptions-item-label ant-nowrap" colspan="4">
             <span>邮箱</span>
@@ -239,7 +239,7 @@
                         系统的模块有：概况、产品管理、采购管理、AI管理、操作记录、厂商管理、系统管理、供应商登录、接单管理、出货管理、异常管理、加急出货、待接单管理。
                       </div>
                     </li>
-                    <li class="ant-timeline-item ant-timeline-item-last">
+                    <li class="ant-timeline-item">
                       <div class="ant-timeline-item-tail"></div>
                       <div
                         class="ant-timeline-item-head ant-timeline-item-head-blue"
@@ -247,6 +247,30 @@
                       <div class="ant-timeline-item-content">
                         2021-02 至 2021-05 OA系统：OA系统是公司内部的人资部门使用的办公系统，用于个性化管理公司的员工晋升，组织架构人员，OKR绩效，金币管理，金币商城等，
                         对接钉钉审批流业务的后台管理，记录员工的考勤等功能。目前系统还处于开发中。
+                      </div>
+                    </li>
+
+                    <li class="ant-timeline-item">
+                      <div class="ant-timeline-item-tail"></div>
+                      <div
+                        class="ant-timeline-item-head ant-timeline-item-head-blue"
+                      ></div>
+                      <div class="ant-timeline-item-content">
+                        2020-08 至 2021-02 MYJIT系统：MYJIT系统是公司内部的订单管理系统，其主要作用是接收ERP系统的订单，然后经由AI部门的审核，修改之后分发到工厂系统之中。
+                        系统的模块有：概况、产品管理、采购管理、AI管理、操作记录、厂商管理、系统管理、供应商登录、接单管理、出货管理、异常管理、加急出货、待接单管理。
+                      </div>
+                    </li>
+                    
+                    <li class="ant-timeline-item ant-timeline-item-last">
+                      <div class="ant-timeline-item-tail"></div>
+                      <div
+                        class="ant-timeline-item-head ant-timeline-item-head-blue"
+                      ></div>
+                      <div class="ant-timeline-item-content">
+                        2021-06 至今 移动综合资源管理系统：负责黑龙江综资系统的二开研发，主要负责的业务有：无线资源、空间资源、动环资源、家客资源、验收模块、全生命周期模块、运维长流程模块等。
+                        虽然是研发岗位，但是身兼数职，涉及到业务需求对接、业务文档编写、数据结构建模、相关的前后台代码架构、业务代码开发、面向客户的实施工作、与甲方客户及众多三方平台沟通合作、
+                        底层数据的迁移汇总、数据决策报表开发、数据报表的通用脚本及相关使用文档编写：<a>https://zedwanger.github.io/myblog/docs/report/01.html#_1-%E5%89%8D%E8%A8%80</a> 密码：wzd5566700。
+                        
                       </div>
                     </li>
                   </ul>
@@ -257,7 +281,7 @@
                   <span>博客地址</span>
                 </th>
                 <td class="ant-descriptions-item-content" colspan="20">
-                  <a href="https://zedwanger.github.io/myblog/about/resume/#%E5%9F%BA%E6%9C%AC%E4%BF%A1%E6%81%AF%E8%A1%A8%E6%A0%BC">https://zedwanger.github.io/myblog/</a>  简历密码: wzd123456
+                  <a>https://zedwanger.github.io/myblog/</a><br/>密码: wzd123456
                 </td>
               </tr>
               <tr class="ant-descriptions-row">
@@ -418,12 +442,11 @@
   height: 10px;
   position: absolute;
   width: 10px;
-  top: -3px; 
 }
 .ant-timeline-item-content {
   margin: 0 0 0 26px;
   position: relative;
-  top: -7.001px;
+  top: -4px;
   word-break: break-word;
 }
 
@@ -639,12 +662,11 @@ export default {
   height: 10px;
   position: absolute;
   width: 10px;
-  top: -3px; 
 }
 .ant-timeline-item-content {
   margin: 0 0 0 26px;
   position: relative;
-  top: -7.001px;
+  top: -4px;
   word-break: break-word;
 }
 
@@ -664,6 +686,7 @@ button{
     line-height: inherit;
     margin: 0;
 }
+
 
 .ant-btn-lg {
     border-radius: 2px;

@@ -78,7 +78,7 @@ isShowComments: true
   - OKR绩效
   - 系统管理
 
-**OA系统项目截图（只展示非机密部分，你懂的😂）**
+**OA系统项目截图**
 
 - **首页**
 ![An image](https://v1.ax1x.com/2023/03/24/02yZOe.jpg)
