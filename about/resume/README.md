@@ -1,5 +1,4 @@
 ---
-# title: "王泽东的个人简历"
 title: "简历"
 date: 2020-11-11 13:56:00
 sidebar: "auto"
@@ -20,20 +19,17 @@ isShowComments: true
 
 ## 技能清单
 **前言**<br>
-  互联网是一片汪洋大海，学的越多，忘的就越多😂
+- 吾生也有涯 而知也无涯 以有涯随无涯 殆已
 
 **程序语言**<br>
 - `java` `javascript` `typescript` `python` `node.js`
 
 **前端**<br>
 - js库：`jquery` `lodash` `moment.js` `three.js` `underscore.js`
-- js框架：`vue.js` `react.js` `Angular`
+- js框架：`vue.js` `react.js` `Angular` 
+- 前端应用框架 `uniapp` `electron`
 - UI组件库 `ant-design` `element-ui` `iview` `vant-ui`
 - 构建工具 `gulp` `rollup` `webpack` `parcel`
-
-
-
-
 
 **java后端**<br>
 - 表现层框架: `spring` `spring-mvc` `spring-boot` `spring-cloud`
@@ -43,16 +39,36 @@ isShowComments: true
 **node后端**<br>
 - 表现层框架: `koa` `express` `egg`
 - 模板引擎: `nunjuncks`
+- 后端渲染框架 `Nuxt`
 - 持久层框架: `sequelize`
 - 构建工具: `webpack` `gulp`
 
-**数据库**<br>
-- `mysql` `sqlserver` `postgresql`
+**关系型数据库**<br>
+- `mysql` `oracle` `postgresql`
+
+**非关系型数据库**<br>
+- `mongodb`
+
+**内存型数据库**<br>
+- `redis`
+
+**代码版本控制工具**
+- `git` `svn`
+
+
+**开发工具**<br>
+- 代码编辑器：`idea` `vscode` `hbuilder` `webstorm`
+- 办公：`excel` `word` `powerpoint`
+- Linux终端： `x-shell` `secureCRT` `filezila`
+- 接口测试：`postman` `soapui`
+- 代理及VPN：`proxifier` `openvpn`
+- 数据库终端：`plsql` `datagrip` `navicat`
+- 文本编辑器：`notepad++` `ultraedit`
 
 ## 项目经历(哈尔滨迈远电子商务有限公司)
 
 ### OA系统
-- 介绍：前端vue全家桶 + iview + restfulAPI, 后端：thinkphp, 数据库：mysql
+- 技术栈介绍：前端vue全家桶 + iview + restfulAPI, 后端：thinkphp, 数据库：mysql
 - 系统模块（只展示一级菜单）
   - 首页看板（待开发）
   - 金币管理 （待开发）
@@ -76,7 +92,7 @@ isShowComments: true
 ![An image](https://v1.ax1x.com/2023/03/24/02ydiP.jpg)
 
 ### MES系统
-- 介绍：前端vue全家桶 + element-UI + vue-apollo + graphqlApi, 后端：nodejs + postgraphile, 数据库：postgresql
+- 技术栈介绍：前端vue全家桶 + element-UI + vue-apollo + graphqlApi, 后端：nodejs + postgraphile, 数据库：postgresql
 - 系统模块（只展示一级菜单）
   - 数据看板
   - 仓库管理
@@ -106,7 +122,7 @@ isShowComments: true
 
 
 ### MYJIT系统
-- 介绍：前端vue全家桶 + element-UI + vue-apollo + graphqlApi, 后端：nodejs + postgraphile, 数据库：postgresql
+- 技术栈介绍：前端vue全家桶 + element-UI + vue-apollo + graphqlApi, 后端：nodejs + postgraphile, 数据库：postgresql
 - 系统模块（只展示一级菜单）
   - 用户登录
     - 概况
@@ -136,8 +152,94 @@ isShowComments: true
 - **加急出货**
 ![An image](https://v1.ax1x.com/2023/03/24/02yfTJ.jpg)
 
-后续正在完善中 --->
+## 项目经历(浪潮通信信息)
+### 移动综合资源管理系统
+- 技术栈介绍：
+  - 前端：`vue全家桶`、`element-UI`、`restful接口`、`qiankun微应用`、`ArcGIS地图`、`echarts可视化图表`
+  - 后端：`java`、`spring`、`spring boot`、`spring cloud`、`mybatis半自动ORM框架及其相关组件`、`consol、nacos服务注册发现`、`kafka分布式消息系统`、`redis内存数据库`、`elasticsearch分布式搜索引擎`、`Alibaba Druid数据库连接池`、`xxl-job分布式任务调度平台`、`Apache Log4j2日志组件`
+  - 数据库：`oracle`、`postgresql`、`mysql`、`redis`、`mongodb`
+- 系统模块
+  - 基础功能
+  - 生产流程
+  - 模型配置
+  - 流程配置
+  - 管线专题
+  - 数据决策
+  - 数据核查
+  - 资源调度
+  - 资源GIS
+  - IP地址管理
+  - 全生命周期管理
+  - 集客业务关联分析
+  - 路由安全核查
+  - OTDR解析
+  - 专业拓扑
+  - 标准地址
+  - 主动监控
+  - 拓扑配置平台
+  - 3D机房可视化
+  - 业务集合
+  - 权限管理
+  - 账号同步
+  - 物料管理
+  - 检查模块
+  - 传输资源管理
+  - 数据质量
+  - 家客一张图
+  - 自智网络
+  - 任务调度
+  - 采集可视化
+  - 集客数据同步
 
+**移动综合资源管理系统截图**
+
+- **门户首页**
+![An image](https://v1.ax1x.com/2023/04/01/3uuHMc.png)
+- **基础功能**
+![An image](https://v1.ax1x.com/2023/04/01/3uuGBm.png)
+- **模型配置首页**
+![An image](https://v1.ax1x.com/2023/04/01/3uuSCs.png)
+- **模型编辑方案配置**
+![An image](https://v1.ax1x.com/2023/04/01/3uuPg7.png)
+- **流程配置-流程图**
+![An image](https://v1.ax1x.com/2023/04/01/3uu1Ba.png)
+- **流程配置-发单环节配置**
+![An image](https://v1.ax1x.com/2023/04/01/3uu5Rh.png)
+- **流程配置-环节数据编排**
+![An image](https://v1.ax1x.com/2023/04/01/3uuAZ9.png)
+- **流程配置-环节数据编排**
+![An image](https://v1.ax1x.com/2023/04/01/3uuAZ9.png)
+- **流程配置-任务管理**
+![An image](https://v1.ax1x.com/2023/04/01/3uuD3U.png)
+- **流程配置-微应用管理**
+![An image](https://v1.ax1x.com/2023/04/01/3uuYZV.png)
+- **流程配置-角色管理**
+![An image](https://v1.ax1x.com/2023/04/01/3uucDH.png)
+- **生产流程**
+![An image](https://v1.ax1x.com/2023/04/01/3uuzDJ.png)
+- **自智网络-天线核查配置**
+![An image](https://v1.ax1x.com/2023/04/01/3uufYw.png)
+- **数据稽核首页**
+![An image](https://v1.ax1x.com/2023/04/01/3uujJb.png)
+- **数据稽核-核查指标树**
+![An image](https://v1.ax1x.com/2023/04/01/3uuJlB.png)
+- **拓扑平台配置**
+![An image](https://v1.ax1x.com/2023/04/01/3uuXAt.png)
+- **管线专题-传输外线**
+![An image](https://v1.ax1x.com/2023/04/01/3uuxb4.png)
+- **管线专题-传输外线-操作工具**
+![An image](https://v1.ax1x.com/2023/04/01/3uuvMZ.png)
+- **管线专题-传输外线-分析工具**
+![An image](https://v1.ax1x.com/2023/04/01/3uuOAq.png)
+- **核查任务调度中心**
+![An image](https://v1.ax1x.com/2023/04/01/3uutuL.png)
+- **FR数据决策系统**
+![An image](https://v1.ax1x.com/2023/04/01/3uuwqQ.png)
+
+
+
+
+后续正在完善中 --->
 ## 致谢
 - [感谢君哥!](https://github.com/zpj80231/znote)
 - [感谢午后南杂大佬!](https://github.com/vuepress-reco/vuepress-theme-reco)
