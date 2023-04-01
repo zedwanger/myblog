@@ -97,7 +97,7 @@
                   <span>期望月薪</span>
                 </th>
                 <td class="ant-descriptions-item-content" colspan="4">
-                  <span>12k-20k</span>
+                  <span>18k-24k</span>
                 </td>
               </tr>
               <tr class="ant-descriptions-row">
@@ -298,6 +298,7 @@
 .ant-descriptions-view table {
   table-layout: fixed;
   width: 100%;
+  letter-spacing: 0.05rem;
 }
 
 .ant-descriptions-item-label.ant-nowrap{
@@ -518,6 +519,7 @@ export default {
 .ant-descriptions-view table {
   table-layout: fixed;
   width: 100%;
+  letter-spacing: 0.05rem;
 }
 
 .ant-descriptions-item-label.ant-nowrap{
