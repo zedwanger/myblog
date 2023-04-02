@@ -97,7 +97,7 @@
                   <span>期望月薪</span>
                 </th>
                 <td class="ant-descriptions-item-content" colspan="4">
-                  <span>18k-24k</span>
+                  <span>20k-26k</span>
                 </td>
               </tr>
               <tr class="ant-descriptions-row">
@@ -269,7 +269,7 @@
                       <div class="ant-timeline-item-content">
                         2021-06 至今 移动综合资源管理系统：负责黑龙江综资系统的二开研发，主要负责的业务有：无线资源、空间资源、动环资源、家客资源、验收模块、全生命周期模块、运维长流程模块等。
                         虽然是研发岗位，但是身兼数职，涉及到业务需求对接、业务文档编写、数据结构建模、相关的前后台代码架构、业务代码开发、面向客户的实施工作、与甲方客户及众多三方平台沟通合作、
-                        底层数据的迁移汇总、数据决策报表开发、数据报表的通用脚本及相关使用文档编写：<a>https://zedwanger.github.io/myblog/docs/report/01.html#_1-%E5%89%8D%E8%A8%80</a> 密码：wzd5566700。
+                        底层数据的迁移汇总、数据决策报表开发、数据报表的通用脚本及相关使用文档编写：<a href="https://zedwanger.github.io/myblog/docs/report/01.html#_1-%E5%89%8D%E8%A8%80">https://zedwanger.github.io/myblog/docs/report/01.html#_1-%E5%89%8D%E8%A8%80</a> 密码：wzd5566700。
                         
                       </div>
                     </li>
@@ -281,7 +281,7 @@
                   <span>博客地址</span>
                 </th>
                 <td class="ant-descriptions-item-content" colspan="20">
-                  <a>https://zedwanger.github.io/myblog/</a><br/>密码: wzd123456
+                  <a href="https://zedwanger.github.io/myblog/">https://zedwanger.github.io/myblog/</a><br/>密码: wzd123456
                 </td>
               </tr>
               <tr class="ant-descriptions-row">
@@ -289,7 +289,9 @@
                   <span>自我评价</span>
                 </th>
                 <td class="ant-descriptions-item-content" colspan="20">
-                  性格豁达、乐观, 不拘泥于形式，平时涉猎比较广泛,喜欢学习了解新鲜的事物。
+                  性格豁达、乐观、不拘泥于形式，平时涉猎比较广泛，喜欢学习了解新鲜的事物。
+                  学习适应能力较强，曾经在一个月之内学会java语言并且使用java语言写出了较高代码质量的项目。
+                  注：本人所擅长并非机械记忆API及教科书般的底层计算机知识，比较擅长查阅文档及研读底层代码逻辑，实事求是的解决问题。
                 </td>
               </tr>
             </tbody>
