@@ -65,13 +65,13 @@
                   <span>住址</span>
                 </th>
                 <td class="ant-descriptions-item-content" colspan="4">
-                  <span>哈尔滨市松北区万达花园C7</span>
+                  <span>哈尔滨市松北区碧桂园华美天樾</span>
                 </td>
                 <th class="ant-descriptions-item-label ant-nowrap" colspan="4">
                   <span>求职意向</span>
                 </th>
                 <td class="ant-descriptions-item-content ant-border-right" colspan="4">
-                  <span>node全栈工程师</span>
+                  <span>java|node全栈工程师</span>
                 </td>
                 <!-- <th class="ant-descriptions-item-label ant-nowrap" colspan="4">
             <span>期望月薪</span>
@@ -85,7 +85,7 @@
                   <span>年龄</span>
                 </th>
                 <td class="ant-descriptions-item-content" colspan="4">
-                  <span>29</span>
+                  <span>{{new Date().getFullYear() - 1994}}</span>
                 </td>
                 <th class="ant-descriptions-item-label ant-nowrap" colspan="4">
                   <span>邮箱</span>
@@ -205,7 +205,7 @@
                         class="ant-timeline-item-head ant-timeline-item-head-blue"
                       ></div>
                       <div class="ant-timeline-item-content">
-                        2020-05 至 2021-05 哈尔滨迈远电子商务有限公公司，职位: nodejs全栈工程师。
+                        工作经历：2020-05 至 2021-05，<b>哈尔滨迈远电子商务有限公司</b>，职位: <b>nodejs全栈工程师</b>。
                       </div>
                     </li>
                     <li class="ant-timeline-item">
@@ -261,6 +261,16 @@
                       </div>
                     </li>
                     
+                    <li class="ant-timeline-item">
+                      <div class="ant-timeline-item-tail"></div>
+                      <div
+                        class="ant-timeline-item-head ant-timeline-item-head-blue"
+                      ></div>
+                      <div class="ant-timeline-item-content">
+                        工作经历：2021-06 至今 <b>浪潮通信信息系统有限公司</b> 职位: <b>java全栈研发工程师</b>。
+                      </div>
+                    </li>
+
                     <li class="ant-timeline-item ant-timeline-item-last">
                       <div class="ant-timeline-item-tail"></div>
                       <div
@@ -270,7 +280,6 @@
                         2021-06 至今 移动综合资源管理系统：负责黑龙江综资系统的二开研发，主要负责的业务有：无线资源、空间资源、动环资源、家客资源、验收模块、全生命周期模块、运维长流程模块等。
                         虽然是研发岗位，但是身兼数职，涉及到业务需求对接、业务文档编写、数据结构建模、相关的前后台代码架构、业务代码开发、面向客户的实施工作、与甲方客户及众多三方平台沟通合作、
                         底层数据的迁移汇总、数据决策报表开发、数据报表的通用脚本及相关使用文档编写：<a href="https://zedwanger.github.io/myblog/docs/report/01.html#_1-%E5%89%8D%E8%A8%80">https://zedwanger.github.io/myblog/docs/report/01.html#_1-%E5%89%8D%E8%A8%80</a> 密码：wzd5566700。
-                        
                       </div>
                     </li>
                   </ul>
