@@ -198,16 +198,56 @@
                         小程序使用原生微信小程序进行开发（封装了生成Page对象的函数工具库）。soul hybrid app 一开始使用uniapp进行开发，由于uniapp bug多且运行效率低， 后更换为react native进行开发。
                       </div>
                     </li> -->
-                    
+
+
                     <li class="ant-timeline-item">
                       <div class="ant-timeline-item-tail"></div>
                       <div
                         class="ant-timeline-item-head ant-timeline-item-head-blue"
                       ></div>
                       <div class="ant-timeline-item-content">
-                        工作经历：2020-05 至 2021-05，<b>哈尔滨迈远电子商务有限公司</b>，职位: <b>nodejs全栈工程师</b>。
+                        工作经历：<b>上海双兆信息科技有限公司</b>，2016-08 至 2019-08， 职位：<b>高级前端工程师</b>
                       </div>
                     </li>
+                    <li class="ant-timeline-item">
+                      <div class="ant-timeline-item-tail"></div>
+                      <div
+                        class="ant-timeline-item-head ant-timeline-item-head-blue"
+                      ></div>
+                      <div class="ant-timeline-item-content">
+                        工作经历：<b>哈尔滨迈远电子商务有限公司</b>，2020-05 至 2021-05，职位: <b>nodejs全栈工程师</b>。
+                      </div>
+                    </li>
+                    <li class="ant-timeline-item ant-timeline-item-last">
+                      <div class="ant-timeline-item-tail"></div>
+                      <div
+                        class="ant-timeline-item-head ant-timeline-item-head-blue"
+                      ></div>
+                      <div class="ant-timeline-item-content">
+                        工作经历：<b>浪潮通信信息系统有限公司</b>，2021-06 至今，职位: <b>java全栈研发工程师</b>。
+                      </div>
+                    </li>
+
+                    <br/>
+                    <li class="ant-timeline-item">
+                      <div class="ant-timeline-item-tail"></div>
+                      <div
+                        class="ant-timeline-item-head ant-timeline-item-head-blue"
+                      ></div>
+                      <div class="ant-timeline-item-content">
+                        2016-08 至 2018-05 负责公司内部CRM系统中的客户中心、用户管理、角色管理、渠道管理、合同管理、订单管理、BI数据大屏等模块的前端业务开发，此系统是公司核心系统，大量业务都是服务于公司的运营部门。
+                      </div>
+                    </li>
+                    <li class="ant-timeline-item">
+                      <div class="ant-timeline-item-tail"></div>
+                      <div
+                        class="ant-timeline-item-head ant-timeline-item-head-blue"
+                      ></div>
+                      <div class="ant-timeline-item-content">
+                        2018-05 至 2019-08 负责CRM客户社交平台的公众号开发、hybrid app 前端业务开发。主要模块有：用户注册登录、订单支付、礼物商城、数据统计分析、客户列表、好友管理、动态发布、聊天记录、个人中心导航、统计报表等模块。
+                      </div>
+                    </li>
+                  
                     <li class="ant-timeline-item">
                       <div class="ant-timeline-item-tail"></div>
                       <div
@@ -261,15 +301,7 @@
                       </div>
                     </li>
                     
-                    <li class="ant-timeline-item">
-                      <div class="ant-timeline-item-tail"></div>
-                      <div
-                        class="ant-timeline-item-head ant-timeline-item-head-blue"
-                      ></div>
-                      <div class="ant-timeline-item-content">
-                        工作经历：2021-06 至今 <b>浪潮通信信息系统有限公司</b> 职位: <b>java全栈研发工程师</b>。
-                      </div>
-                    </li>
+
 
                     <li class="ant-timeline-item ant-timeline-item-last">
                       <div class="ant-timeline-item-tail"></div>
@@ -522,6 +554,8 @@ button{
 </style>
 
 <script>
+// 上海双兆信息科技，前端工程师，负责企业内部CRM企业管理软件的前台静态页面开发，AJAX与后台数据交互，使用echarts设计开发portal首页
+// 使用uniapp开发
 export default {
   methods: {
     print() {
