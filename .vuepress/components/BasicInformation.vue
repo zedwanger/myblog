@@ -65,13 +65,13 @@
                   <span>住址</span>
                 </th>
                 <td class="ant-descriptions-item-content" colspan="4">
-                  <span>哈尔滨市松北区万达花园C7</span>
+                  <span>哈尔滨市松北区碧桂园华美天樾</span>
                 </td>
                 <th class="ant-descriptions-item-label ant-nowrap" colspan="4">
                   <span>求职意向</span>
                 </th>
                 <td class="ant-descriptions-item-content ant-border-right" colspan="4">
-                  <span>node全栈工程师</span>
+                  <span>java|node全栈工程师</span>
                 </td>
                 <!-- <th class="ant-descriptions-item-label ant-nowrap" colspan="4">
             <span>期望月薪</span>
@@ -85,7 +85,7 @@
                   <span>年龄</span>
                 </th>
                 <td class="ant-descriptions-item-content" colspan="4">
-                  <span>29</span>
+                  <span>{{new Date().getFullYear() - 1994}}</span>
                 </td>
                 <th class="ant-descriptions-item-label ant-nowrap" colspan="4">
                   <span>邮箱</span>
@@ -198,16 +198,56 @@
                         小程序使用原生微信小程序进行开发（封装了生成Page对象的函数工具库）。soul hybrid app 一开始使用uniapp进行开发，由于uniapp bug多且运行效率低， 后更换为react native进行开发。
                       </div>
                     </li> -->
-                    
+
+
                     <li class="ant-timeline-item">
                       <div class="ant-timeline-item-tail"></div>
                       <div
                         class="ant-timeline-item-head ant-timeline-item-head-blue"
                       ></div>
                       <div class="ant-timeline-item-content">
-                        2020-05 至 2021-05 哈尔滨迈远电子商务有限公公司，职位: nodejs全栈工程师。
+                        工作经历：<b>上海双兆信息科技有限公司</b>，2016-08 至 2019-08， 职位：<b>高级前端工程师</b>
                       </div>
                     </li>
+                    <li class="ant-timeline-item">
+                      <div class="ant-timeline-item-tail"></div>
+                      <div
+                        class="ant-timeline-item-head ant-timeline-item-head-blue"
+                      ></div>
+                      <div class="ant-timeline-item-content">
+                        工作经历：<b>哈尔滨迈远电子商务有限公司</b>，2020-05 至 2021-05，职位: <b>nodejs全栈工程师</b>。
+                      </div>
+                    </li>
+                    <li class="ant-timeline-item ant-timeline-item-last">
+                      <div class="ant-timeline-item-tail"></div>
+                      <div
+                        class="ant-timeline-item-head ant-timeline-item-head-blue"
+                      ></div>
+                      <div class="ant-timeline-item-content">
+                        工作经历：<b>浪潮通信信息系统有限公司</b>，2021-06 至今，职位: <b>java全栈研发工程师</b>。
+                      </div>
+                    </li>
+
+                    <br/>
+                    <li class="ant-timeline-item">
+                      <div class="ant-timeline-item-tail"></div>
+                      <div
+                        class="ant-timeline-item-head ant-timeline-item-head-blue"
+                      ></div>
+                      <div class="ant-timeline-item-content">
+                        2016-08 至 2018-05 负责公司内部CRM系统中的客户中心、用户管理、角色管理、渠道管理、合同管理、订单管理、BI数据大屏等模块的前端业务开发，此系统是公司核心系统，大量业务都是服务于公司的运营部门。
+                      </div>
+                    </li>
+                    <li class="ant-timeline-item">
+                      <div class="ant-timeline-item-tail"></div>
+                      <div
+                        class="ant-timeline-item-head ant-timeline-item-head-blue"
+                      ></div>
+                      <div class="ant-timeline-item-content">
+                        2018-05 至 2019-08 负责CRM客户社交平台的公众号开发、hybrid app 前端业务开发。主要模块有：用户注册登录、订单支付、礼物商城、数据统计分析、客户列表、好友管理、动态发布、聊天记录、个人中心导航、统计报表等模块。
+                      </div>
+                    </li>
+                  
                     <li class="ant-timeline-item">
                       <div class="ant-timeline-item-tail"></div>
                       <div
@@ -261,6 +301,8 @@
                       </div>
                     </li>
                     
+
+
                     <li class="ant-timeline-item ant-timeline-item-last">
                       <div class="ant-timeline-item-tail"></div>
                       <div
@@ -270,7 +312,6 @@
                         2021-06 至今 移动综合资源管理系统：负责黑龙江综资系统的二开研发，主要负责的业务有：无线资源、空间资源、动环资源、家客资源、验收模块、全生命周期模块、运维长流程模块等。
                         虽然是研发岗位，但是身兼数职，涉及到业务需求对接、业务文档编写、数据结构建模、相关的前后台代码架构、业务代码开发、面向客户的实施工作、与甲方客户及众多三方平台沟通合作、
                         底层数据的迁移汇总、数据决策报表开发、数据报表的通用脚本及相关使用文档编写：<a href="https://zedwanger.github.io/myblog/docs/report/01.html#_1-%E5%89%8D%E8%A8%80">https://zedwanger.github.io/myblog/docs/report/01.html#_1-%E5%89%8D%E8%A8%80</a> 密码：wzd5566700。
-                        
                       </div>
                     </li>
                   </ul>
@@ -513,6 +554,8 @@ button{
 </style>
 
 <script>
+// 上海双兆信息科技，前端工程师，负责企业内部CRM企业管理软件的前台静态页面开发，AJAX与后台数据交互，使用echarts设计开发portal首页
+// 使用uniapp开发
 export default {
   methods: {
     print() {
