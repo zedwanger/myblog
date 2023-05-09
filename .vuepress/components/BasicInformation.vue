@@ -97,7 +97,7 @@
                   <span>期望月薪</span>
                 </th>
                 <td class="ant-descriptions-item-content" colspan="4">
-                  <span>20k-26k</span>
+                  <span>16k-20k</span>
                 </td>
               </tr>
               <tr class="ant-descriptions-row">
