@@ -1,7 +1,0 @@
-node_modules/
-.temp
-yarn.lock
-yarn.error
-public
-.vscode
-.DS_Store
