@@ -30,80 +30,40 @@
 #           BRANCH: gh-pages
 #           FOLDER: public
 
-# # 触发条件：在 push 到 mian 分支后
-# name: Deploy GitHub Pages
-# on:   
-#   push:
-#     branches:
-#       - main
-
-# # 任务
-# jobs:
-#   build-and-deploy:
-#     runs-on: ubuntu-latest
-#     steps:
-#       - name: Checkout 🛎️
-#         uses: actions/checkout@v2.3.1 # If you're using actions/checkout@v2 you must set persist-credentials to false in most cases for the deployment to work correctly.
-#         with:
-#           persist-credentials: false
-
-#       - name: Setup Node.js
-#         uses: actions/setup-node@v2
-#         with:
-#           node-version: '16'
-
-#       - name: Install and Build 🔧 # This example project is built using npm and outputs the result to the 'build' folder. Replace with the commands required to build your project, or remove this step entirely if your site is pre-built.
-#         run: |
-#           npm install
-#           npm run build
-
-#       - name: Deploy 🚀
-#         uses: JamesIves/github-pages-deploy-action@3.7.1
-#         with:
-#           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-#           BRANCH: gh-pages # The branch the action should deploy to.
-#           FOLDER: public # The folder the action should deploy.
-#           CLEAN: true # Automatically remove deleted files from the deploy branch
-
-
-
-name: Deploy to GitHub Pages
-
+name: Build and Deploy
+# 监听 master 分支上的 push 事件
 on:
   push:
     branches:
-      - main
-
+      - master
 jobs:
-  deploy:
+  build-and-deploy:
+    # 构建环境使用 ubuntu
     runs-on: ubuntu-latest
-    
     steps:
-    - uses: actions/checkout@v2
-    
-    - name: Setup Node.js
-      uses: actions/setup-node@v2
-      with:
-        node-version: '16'
-        
-    - name: Install dependencies
-      run: npm ci
-        
-    - name: Build project
-      run: npm run build
-        
-    - name: Deploy to GitHub Pages
-      uses: JamesIves/github-pages-deploy-action@4.1.4
-      with:
-        branch: gh-pages
-        folder: public
-        clean: true
-        
-    - name: Notification
-      uses: 8398a7/action-notification@v1
-      with:
-        status: success
-        fields:
-          - key: Status
-            value: Successfully deployed to GitHub Pages
-        if_succeed: true
+      # 官方action, 将代码拉取到虚拟机
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+
+      # 安装node.js
+      - name: Use Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "16.14.2"
+
+      # 下载依赖、打包项目
+      - name: Install and Build
+        run: |
+          yarn install
+          yarn build
+
+      # 部署
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@v4.3.3
+        with:
+          # 项目配置的打包目录名称
+          folder: public
+          # 提交分支名
+          branch: gh-pages
