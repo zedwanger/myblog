@@ -38,7 +38,7 @@ name: Build and Deploy
 on:
   push:
     branches:
-      - master
+      - main
 jobs:
   build-and-deploy:
     # 构建环境使用 ubuntu
