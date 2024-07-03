@@ -224,7 +224,16 @@
                         class="ant-timeline-item-head ant-timeline-item-head-blue"
                       ></div>
                       <div class="ant-timeline-item-content">
-                        工作经历：<b>浪潮通信信息系统有限公司</b>，2021-06 至今，职位: <b>java全栈研发工程师</b>。
+                        工作经历：<b>浪潮通信信息系统有限公司</b>，2021-06 至 2023-05，职位: <b>java全栈研发工程师</b>。
+                      </div>
+                    </li>
+                    <li class="ant-timeline-item ant-timeline-item-last">
+                      <div class="ant-timeline-item-tail"></div>
+                      <div
+                        class="ant-timeline-item-head ant-timeline-item-head-blue"
+                      ></div>
+                      <div class="ant-timeline-item-content">
+                        工作经历：<b>黑龙江省城际数谷科技有限公司</b>，2023-07 至今，职位: <b>技术总监</b>。
                       </div>
                     </li>
 
@@ -301,9 +310,7 @@
                       </div>
                     </li>
                     
-
-
-                    <li class="ant-timeline-item ant-timeline-item-last">
+                    <li class="ant-timeline-item">
                       <div class="ant-timeline-item-tail"></div>
                       <div
                         class="ant-timeline-item-head ant-timeline-item-head-blue"
@@ -312,6 +319,16 @@
                         2021-06 至今 移动综合资源管理系统：负责黑龙江综资系统的二开研发，主要负责的业务有：无线资源、空间资源、动环资源、家客资源、验收模块、全生命周期模块、运维长流程模块等。
                         虽然是研发岗位，但是身兼数职，涉及到业务需求对接、业务文档编写、数据结构建模、相关的前后台代码架构、业务代码开发、面向客户的实施工作、与甲方客户及众多三方平台沟通合作、
                         底层数据的迁移汇总、数据决策报表开发、数据报表的通用脚本及相关使用文档编写：<a href="https://zedwanger.github.io/myblog/docs/report/01.html#_1-%E5%89%8D%E8%A8%80">https://zedwanger.github.io/myblog/docs/report/01.html#_1-%E5%89%8D%E8%A8%80</a> 密码：wzd5566700。
+                      </div>
+                    </li>
+
+                    <li class="ant-timeline-item ant-timeline-item-last">
+                      <div class="ant-timeline-item-tail"></div>
+                      <div
+                        class="ant-timeline-item-head ant-timeline-item-head-blue"
+                      ></div>
+                      <div class="ant-timeline-item-content">
+                        2023-07 至今 负责技术部门管理相关的工作，甲方客户项目的需求沟通与确认，产品需求文档的梳理编写，项目的技术选型，底层软件架构的搭建，通用的中间件开发及维护，公司资产安全相关技术组件搭建，重点难点项目的全栈开发，公司运维平台的搭建以及日常的服务器、数据库运维工作，老旧项目的业务梳理与重构等。
                       </div>
                     </li>
                   </ul>

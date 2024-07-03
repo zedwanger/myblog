@@ -55,6 +55,8 @@ isShowComments: true
 **代码版本控制工具**
 - `git` `svn`
 
+**运维相关**
+- `jumpserver堡垒机` `1panel运维面板` `docker` `docker-compose`
 
 **开发工具**<br>
 - 代码编辑器：`idea` `vscode` `hbuilder` `webstorm`
@@ -245,6 +247,114 @@ isShowComments: true
 ![An image](https://v1.ax1x.com/2023/04/01/3uutuL.png)
 - **FR数据决策系统**
 ![An image](https://v1.ax1x.com/2023/04/01/3uuwqQ.png)
+
+
+## 项目经历及岗位工作相关(黑龙江省城际数谷科技有限公司)
+### 管理职责
+对技术部的各个组进行日常管理，分配开发任务，跟踪完成进度情况，把控项目质量。对于一些细碎的日常服务器运维、数据库调优、小的程序BUG等等问题交由各个组组长进行监督。
+
+### 智能排课系统
+- 智能排课系统的全部设计、研发、运维、对接客户的工作。排课系统的表模型设计、java + springboot后端的排课系统核心算法的实现以及其他业务逻辑的实现、前端使用vue3 + vite实现高质量的UI界面。其中模块包括排课任务、课时设置、任课信息、预排课、不排课、合班、最大开班数、教师互斥、自动排课、课表调整、排课结果。该排课系统已申请专利，目前已应用于顺迈学校的小学、初中排课。
+
+**项目截图**
+- **排课任务**
+![An image](http://cdn.cjsgpws.com:9000/share/course-schedule/Snipaste_2024-07-02_14-48-29.png)
+
+- **课时设置**
+![An image](http://cdn.cjsgpws.com:9000/share/course-schedule/Snipaste_2024-07-02_14-49-17.png)
+
+- **任课信息**
+![An image](http://cdn.cjsgpws.com:9000/share/course-schedule/Snipaste_2024-07-02_14-49-34.png)
+
+- **预排课**
+![An image](http://cdn.cjsgpws.com:9000/share/course-schedule/Snipaste_2024-07-02_14-50-20.png)
+
+- **不排课**
+![An image](http://cdn.cjsgpws.com:9000/share/course-schedule/Snipaste_2024-07-02_14-50-45.png)
+
+- **合班**
+![An image](http://cdn.cjsgpws.com:9000/share/course-schedule/Snipaste_2024-07-02_14-51-21.png)
+
+- **最大开班数**
+![An image](http://cdn.cjsgpws.com:9000/share/course-schedule/Snipaste_2024-07-02_14-51-45.png)
+
+- **教师互斥**
+![An image](http://cdn.cjsgpws.com:9000/share/course-schedule/Snipaste_2024-07-02_14-52-07.png)
+
+- **自动排课**
+![An image](http://cdn.cjsgpws.com:9000/share/course-schedule/Snipaste_2024-07-02_14-52-20.png)
+
+- **课表调整**
+![An image](http://cdn.cjsgpws.com:9000/share/course-schedule/Snipaste_2024-07-02_14-52-38.png)
+
+- **排课结果**
+![An image](http://cdn.cjsgpws.com:9000/share/course-schedule/Snipaste_2024-07-02_14-54-22.png)
+
+**排课算法入口截图**
+![An image](http://cdn.cjsgpws.com:9000/share/other/Snipaste_2024-07-03_08-53-18.png)
+
+### 底层架构
+- 软件技术架构，软件技术调研、软件技术选型、前后端的代码架构搭建采用前后端分离的模式，前端使用vue3 + vite + element-plus等生态架构，后端采用Spring Boot、Spring Cloud & Alibaba，注册中心、配置中心选型Nacos，权限认证使用Redis，流量控制框架选型Sentinel，分布式事务选型Seata。系统模块：cjsg-vue3-ui、cjsg-gateway网关模块、cjsg-auth认证中心、cjsg-api开放feign接口模块、cjsg-common模块中包括子模块：cjsg-common-core、cjsg-common-datascope、cjsg-common-datasource、cjsg-common-translate、cjsg-common-log、cjsg-common-redis、cjsg-common-seata、cjsg-common-security、cjsg-common-swagger、cjsg-common-export、cjsg-common-import、cjsg-common-web、cjsg-common-workflow、cjsg-common-rabiitmq、cjsg-common-websocket。cjsg-module模块中的子模块：cjsg-system、cjsg-sm-sc校园系统模块。
+
+**软件技术架构截图**
+![An image](http://cdn.cjsgpws.com:9000/share/other/Snipaste_2024-07-03_08-40-08.png)
+
+### 运维相关
+- 服务器的选择与配置，根据项目架构所需的硬件资源选择服务器配置，在满足软件需求的同时尽量节省资源。服务器磁盘分区、磁盘分区目录永久挂载，磁盘扩容等服务器基础配置的操作。
+- 服务器内的所有相关数据库账号密码使用系统环境变量配置，只有管理员能查看数据库的相关账号密码，确保数据库信息的安全。
+- 服务器的运维：日常的服务器的维护，包括mysql的配置调优、数据备份脚本的编写，ngxin的静态页面的正向代理、其他server服务的反向代理，定时清理服务器buffer缓存、定时清理过期的日志等，日常故障的分析、定位、解决等。由于之前的公司服务器运维水平较差，于是对所有的公司项目进行docker容器化部署，编写docker-compose脚本对服务进行统一的编排，使用dockerfile对原有的springboot服务器进行docker镜像的构建，使用dcocker-compose构建镜像的容器，采用docker容器化技术对旧项目的迁移部署等等。
+- 代码仓库的搭建，使用docker安装部署gitlab-ee代码仓库对技术部代码进行管理，编写定时备份脚本备份gitlab代码仓库。
+
+**新项目均采用docker容器化部署截图**
+![An image](http://cdn.cjsgpws.com:9000/share/other/Snipaste_2024-07-03_08-46-18.png)
+
+### 安全相关
+- 公司网络安全搭建，采用开源的jumpserver堡垒机对公司数据库、服务器等资产进行统一管理、部署jumpserver、阅读官方文档、修改jumpserver配置文件增加session连接时常。新建用户以及用户组、配置服务器数据库资产、对资产进行授权等。
+- 搭建内网穿透服务，采用wireguard VPN技术组建虚拟局域网络，使用华为云服务器作为中继服务器进行流量转发。出差人员使用wireguard客户端进行vpn的拨号上网，访问公司内网服务器资源。
+- 使用APIfox工具作为团队协作工具，对程序接口进行单测、压测、自动化联测等开发测试工作。
+
+**保护公司资产安全的堡垒机WEB页面截图**
+![An image](http://cdn.cjsgpws.com:9000/share/other/Snipaste_2024-07-03_08-57-34.png)
+
+**内网穿透的wireguard虚拟组网web配置界面截图**
+![An image](http://cdn.cjsgpws.com:9000/share/other/Snipaste_2024-07-03_08-59-11.png)
+
+### 系统重构相关
+
+- **智慧校园系统**的重构，采用spring-boot spring-cloud微服务架构设计。由于之前的系统设计比较混乱，前端与后端都有着大量的业务逻辑，并且业务逻辑耦合较深，表设计混乱且没有业务文档参照，于是只能花费大量时间精力阅读前后端代码来寻找业务逻辑。最终还是决定推翻重来，重新写这一套智慧校园系统，历时两个月的时间重构完成。
+- **EGS综合治理系统**的重构以及迁移部署工作，该项目属于公司早期项目，各方面设计非常混乱且离职人员未交接文档。后端代码java服务就有10个，再加上硬件中台服务3个，共13个java服务，并且一共有6套的平台部署，总计63个java服务。其中10个基础java服务互相调用逻辑混乱，配置混乱，代码混乱，数据库表设计混乱，图片存储位置混乱等等。对于基础服务采用新结构重写所有业务逻辑。对于硬件中台目前没办法进行迁移部署，因为所有的硬件设备采用IP地址的方式向中台发起http或socket连接进行数据交互。并且中台的业务逻辑中采用IP地址对不同平台的设备进行数据隔离，这就导致硬件中台服务很难进行迁移部署。目前采用了兼容性的处理方式，新增了data-scope-tag字段以及对相关业务逻辑代码的修改，兼容了新平台的基础服务迁移部署，硬件中台则不进行迁移。采用这种兼容性的方式逐步替换掉旧的基础服务，节省了服务器资源、提升了系统的健壮性、响应速度以及后续的可维护性。
+
+### 硬件中台系统
+- 接入海康摄像头GB28181协议，使用开源的web video platform项目以及使用ZLMediaKit C++11 流媒体服务器框架作为视频的拉流推流中间件进行实时的视频点播。
+- 接入GA/T 1400协议摄像机抓拍车牌等业务的接入。
+- 接入杭州宇泛智能科技的人脸识别硬件设备，根据该公司提供的restful接口文档对接相关业务。
+- 接入适老化设备，包括智能门磁、智能手环、紧急按钮报警器、漏水探测器、燃气探测器、老年胸牌、CO传感器等。设置硬件连接我方硬件中台的地址，硬件中台开启socket服务器端接入来自硬件的业务信息，对硬件报文数据进行解析等相关中台业务的接入。
+
+### 需求及产品
+对于一些项目的重点、难点模块，甲方客户反复要求修改的业务需求，重新进行系统性的整理与分析，寻找客户的核心诉求与痛点。重新设计该模块的产品方案，编写详细的产品开发需求文档，编写思维脑图，与UI沟通协作出前端UI设计图，根据产品业务需求建立最大容错的数据库表模型，通过研发内部会议口头讲解产品需求思路与技术实现方案，最终交给相关的开发人员进行开发。
+
+**考务产品文档截图**
+![An image](http://cdn.cjsgpws.com:9000/share/other/Snipaste_2024-07-03_14-41-19.png)
+
+**下载链接**
+[文件](http://cdn.cjsgpws.com:9000/share/other/%E5%85%B3%E4%BA%8E%E8%80%83%E5%8A%A1%E7%9B%B8%E5%85%B3%E7%9A%84%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3.docx)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!-- ## 致谢

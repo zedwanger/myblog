@@ -14,4 +14,6 @@ tags:
 - > [webstorm激活码](http://lookdiv.com/) <!-- 密码：5263 -->
 - > [奇链](http://www.dbyun.net/)
 - > [JAVA全栈知识体系](https://pdai.tech/)
+- > [在线图片压缩](https://squoosh.app/)
+- > [hello图床](https://www.helloimg.com/)
 
