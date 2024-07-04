@@ -22,19 +22,21 @@ isShowComments: true
 - 吾生也有涯 而知也无涯 以有涯随无涯 殆已
 
 **程序语言**<br>
-- `java` `javascript` `typescript` `python` `node.js`
+- `C语言` `C++` `java` `javascript` `typescript` `python` `node.js` `perl`
 
 **前端**<br>
-- js库：`jquery` `lodash` `moment.js` `three.js` `underscore.js`
-- js框架：`vue.js` `react.js` `Angular` 
+- js库：`jquery` `lodash` `moment.js` `underscore.js`
+- js框架：`vue.js 2` `vue.js 3` `react.js` `Angular` 
 - 前端应用框架 `uniapp` `electron`
 - UI组件库 `ant-design` `element-ui` `iview` `vant-ui`
 - 构建工具 `gulp` `rollup` `webpack` `parcel`
+- 开发框架：`element-dmin` `element-plus-admin` `pureadmin` `ruoyi` `ruoyi-vue3`
 
 **java后端**<br>
 - 表现层框架: `spring` `spring-mvc` `spring-boot` `spring-cloud`
 - 持久层框架: `mybaits` `mybatis-plus` `hibernate`
 - 构建工具: `Mawen` `Gradle`
+- 开发框架：`ruoyi` `ruoyi-cloud` `ruoyi-vue-plus`
 
 **node后端**<br>
 - 表现层框架: `koa` `express` `egg`
@@ -42,6 +44,20 @@ isShowComments: true
 - 后端渲染框架 `Nuxt`
 - 持久层框架: `sequelize`
 - 构建工具: `webpack` `gulp`
+
+**服务器运维相关**
+- 服务器搭建：`linux磁盘分区、挂载、扩容` `linux权限划分` `ssh配置` 
+- 运维工具：`jumpserver堡垒机` `1panel自动化运维` 
+- 虚拟化：`docker` `dockerfile` `docker-compose` 
+- 代理：`ngxin` `caddy` `openresty` 
+- 防火墙：`iptables` `firewalld` 
+- 内网穿透：`wireguard VPN组网` 
+- 代码托管-持续集成：`gitlab-ce` `jenkins`
+
+**DBA相关**
+- `安装、配置和维护` `数据库备份和恢复` `数据库性能优化和监控`
+- `权限划分` `字符集维护` `索引维护` `慢sql分析优化` `通用维护sql脚本编写`
+- `数据迁移程序编写` `kettle`
 
 **关系型数据库**<br>
 - `mysql` `oracle` `postgresql`
@@ -55,15 +71,12 @@ isShowComments: true
 **代码版本控制工具**
 - `git` `svn`
 
-**运维相关**
-- `jumpserver堡垒机` `1panel运维面板` `docker` `docker-compose`
-
 **开发工具**<br>
 - 代码编辑器：`idea` `vscode` `hbuilder` `webstorm`
-- 办公：`excel` `word` `powerpoint`
+- 办公：`excel` `word` `powerpoint` `xmind`
 - Linux终端： `x-shell` `secureCRT` `filezila`
-- 接口测试：`postman` `soapui`
-- 代理及VPN：`proxifier` `openvpn`
+- 接口测试：`postman` `soapui` `apifox`
+- 代理及VPN：`proxifier` `openvpn` `wireguard`
 - 数据库终端：`plsql` `datagrip` `navicat`
 - 文本编辑器：`notepad++` `ultraedit`
 
