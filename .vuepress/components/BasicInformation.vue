@@ -218,7 +218,7 @@
                         工作经历：<b>哈尔滨迈远电子商务有限公司</b>，2020-05 至 2021-05，职位: <b>nodejs全栈工程师</b>。
                       </div>
                     </li>
-                    <li class="ant-timeline-item ant-timeline-item-last">
+                    <li class="ant-timeline-item">
                       <div class="ant-timeline-item-tail"></div>
                       <div
                         class="ant-timeline-item-head ant-timeline-item-head-blue"
