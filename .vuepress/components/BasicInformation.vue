@@ -51,7 +51,7 @@
                   <span>电话</span>
                 </th>
                 <td class="ant-descriptions-item-content ant-border-right" colspan="4">
-                  <span>16563467777</span>
+                  <span>15636152539</span>
                 </td>
                 <!-- <th class="ant-descriptions-item-label ant-nowrap" colspan="4">
             <span>邮箱</span>
@@ -97,7 +97,7 @@
                   <span>期望月薪</span>
                 </th>
                 <td class="ant-descriptions-item-content" colspan="4">
-                  <span>16k-20k</span>
+                  <span>12k-20k</span>
                 </td>
               </tr>
               <tr class="ant-descriptions-row">
@@ -105,7 +105,7 @@
                   <span>学历</span>
                 </th>
                 <td class="ant-descriptions-item-content" colspan="4">
-                  <span>211本科</span>
+                  <span>本科</span>
                 </td>
                 <th class="ant-descriptions-item-label ant-nowrap" colspan="4">
                   <span>身份证号</span>
