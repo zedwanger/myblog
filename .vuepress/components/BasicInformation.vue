@@ -150,7 +150,7 @@
                       ></div>
                       <div class="ant-timeline-item-content">
                         2012-08 至 2016-07
-                        就读于内蒙古呼和浩特市内蒙古大学交通学院。
+                        就读于内蒙古呼和浩特市内蒙古大学。
                       </div>
                     </li>
                   </ul>
