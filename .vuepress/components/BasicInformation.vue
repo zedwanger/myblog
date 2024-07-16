@@ -178,7 +178,7 @@
                   <span>证书</span>
                 </th>
                 <td class="ant-descriptions-item-content" colspan="20">
-                  大学英语四级证书、大学英语六级证书、内蒙古大学毕业证书、内蒙古大学工学学位证书、计算机二级证书
+                  大学英语四级证书、内蒙古大学毕业证书、内蒙古大学工学学位证书
                 </td>
               </tr>
               <tr class="ant-descriptions-row">
