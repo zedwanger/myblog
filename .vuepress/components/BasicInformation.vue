@@ -18,19 +18,31 @@
                 <td class="ant-descriptions-item-content" colspan="4">
                   <span>男</span>
                 </td>
-                <th class="ant-descriptions-item-label ant-nowrap" colspan="4" rowspan="3">
-                  <div><span style="letter-spacing: 30px;">头</span>像</div>
+                <th
+                  class="ant-descriptions-item-label ant-nowrap"
+                  colspan="4"
+                  rowspan="3"
+                >
+                  <div><span style="letter-spacing: 30px">头</span>像</div>
                 </th>
                 <td
-                  style="padding: 4px;"
+                  style="padding: 4px"
                   class="ant-descriptions-item-content"
                   colspan="4"
                   rowspan="3"
                 >
                   <div
-                    style="display: flex;justify-content: center;align-items: center;"
+                    style="
+                      display: flex;
+                      justify-content: center;
+                      align-items: center;
+                    "
                   >
-                    <img style="width: 120px;" src="https://v1.ax1x.com/2023/03/24/02ynVV.jpg" title="王泽东" />
+                    <img
+                      style="width: 120px"
+                      src="https://v1.ax1x.com/2023/03/24/02ynVV.jpg"
+                      title="王泽东"
+                    />
                   </div>
                 </td>
                 <!-- <th class="ant-descriptions-item-label ant-nowrap" colspan="4">
@@ -45,12 +57,15 @@
                   <span>工作经验</span>
                 </th>
                 <td class="ant-descriptions-item-content" colspan="4">
-                  <span>六年</span>
+                  <span>{{ new Date().getFullYear() - 2016 }}年</span>
                 </td>
                 <th class="ant-descriptions-item-label ant-nowrap" colspan="4">
                   <span>电话</span>
                 </th>
-                <td class="ant-descriptions-item-content ant-border-right" colspan="4">
+                <td
+                  class="ant-descriptions-item-content ant-border-right"
+                  colspan="4"
+                >
                   <span>15636152539</span>
                 </td>
                 <!-- <th class="ant-descriptions-item-label ant-nowrap" colspan="4">
@@ -70,7 +85,10 @@
                 <th class="ant-descriptions-item-label ant-nowrap" colspan="4">
                   <span>求职意向</span>
                 </th>
-                <td class="ant-descriptions-item-content ant-border-right" colspan="4">
+                <td
+                  class="ant-descriptions-item-content ant-border-right"
+                  colspan="4"
+                >
                   <span>java|node全栈工程师</span>
                 </td>
                 <!-- <th class="ant-descriptions-item-label ant-nowrap" colspan="4">
@@ -85,7 +103,7 @@
                   <span>年龄</span>
                 </th>
                 <td class="ant-descriptions-item-content" colspan="4">
-                  <span>{{new Date().getFullYear() - 1994}}</span>
+                  <span>{{ new Date().getFullYear() - 1994 }}</span>
                 </td>
                 <th class="ant-descriptions-item-label ant-nowrap" colspan="4">
                   <span>邮箱</span>
@@ -133,7 +151,7 @@
                   <span>教育背景</span>
                 </th>
                 <td class="ant-descriptions-item-content" colspan="20">
-                  <ul class="ant-timeline" style="margin-top: 12px;">
+                  <ul class="ant-timeline" style="margin-top: 12px">
                     <li class="ant-timeline-item">
                       <div class="ant-timeline-item-tail"></div>
                       <div
@@ -149,8 +167,7 @@
                         class="ant-timeline-item-head ant-timeline-item-head-blue"
                       ></div>
                       <div class="ant-timeline-item-content">
-                        2012-08 至 2016-07
-                        就读于内蒙古呼和浩特市内蒙古大学。
+                        2012-08 至 2016-07 就读于内蒙古呼和浩特市内蒙古大学。
                       </div>
                     </li>
                   </ul>
@@ -169,7 +186,7 @@
                   <span>工作经历</span>
                 </th>
                 <td class="ant-descriptions-item-content" colspan="20">
-                  <ul class="ant-timeline" style="margin-top: 12px;">
+                  <ul class="ant-timeline" style="margin-top: 12px">
                     <!-- <li class="ant-timeline-item">
                       <div class="ant-timeline-item-tail"></div>
                       <div
@@ -199,52 +216,59 @@
                       </div>
                     </li> -->
 
+                    <li class="ant-timeline-item">
+                      <div class="ant-timeline-item-tail"></div>
+                      <div
+                        class="ant-timeline-item-head ant-timeline-item-head-blue"
+                      ></div>
+                      <div class="ant-timeline-item-content">
+                        <b>黑龙江省城际数谷科技有限公司</b>，2023-07
+                        至今，职位: <b>技术总监</b>。
+                      </div>
+                    </li>
+                    <li class="ant-timeline-item">
+                      <div class="ant-timeline-item-tail"></div>
+                      <div
+                        class="ant-timeline-item-head ant-timeline-item-head-blue"
+                      ></div>
+                      <div class="ant-timeline-item-content">
+                        <b>浪潮通信信息系统有限公司</b>，2021-06 至
+                        2023-05，职位: <b>java全栈研发工程师</b>。
+                      </div>
+                    </li>
+                    <li class="ant-timeline-item">
+                      <div class="ant-timeline-item-tail"></div>
+                      <div
+                        class="ant-timeline-item-head ant-timeline-item-head-blue"
+                      ></div>
+                      <div class="ant-timeline-item-content">
+                        <b>哈尔滨迈远电子商务有限公司</b>，2020-05 至
+                        2021-05，职位: <b>nodejs全栈工程师</b>。
+                      </div>
+                    </li>
 
-                    <li class="ant-timeline-item">
-                      <div class="ant-timeline-item-tail"></div>
-                      <div
-                        class="ant-timeline-item-head ant-timeline-item-head-blue"
-                      ></div>
-                      <div class="ant-timeline-item-content">
-                        工作经历：<b>上海双兆信息科技有限公司</b>，2016-08 至 2019-08， 职位：<b>高级前端工程师</b>
-                      </div>
-                    </li>
-                    <li class="ant-timeline-item">
-                      <div class="ant-timeline-item-tail"></div>
-                      <div
-                        class="ant-timeline-item-head ant-timeline-item-head-blue"
-                      ></div>
-                      <div class="ant-timeline-item-content">
-                        工作经历：<b>哈尔滨迈远电子商务有限公司</b>，2020-05 至 2021-05，职位: <b>nodejs全栈工程师</b>。
-                      </div>
-                    </li>
-                    <li class="ant-timeline-item">
-                      <div class="ant-timeline-item-tail"></div>
-                      <div
-                        class="ant-timeline-item-head ant-timeline-item-head-blue"
-                      ></div>
-                      <div class="ant-timeline-item-content">
-                        工作经历：<b>浪潮通信信息系统有限公司</b>，2021-06 至 2023-05，职位: <b>java全栈研发工程师</b>。
-                      </div>
-                    </li>
+
                     <li class="ant-timeline-item ant-timeline-item-last">
                       <div class="ant-timeline-item-tail"></div>
                       <div
                         class="ant-timeline-item-head ant-timeline-item-head-blue"
                       ></div>
                       <div class="ant-timeline-item-content">
-                        工作经历：<b>黑龙江省城际数谷科技有限公司</b>，2023-07 至今，职位: <b>技术总监</b>。
+                        <b>上海双兆信息科技有限公司</b>，2016-08 至
+                        2019-08， 职位：<b>高级前端工程师</b>
                       </div>
                     </li>
 
-                    <br/>
+                    <br />
+
                     <li class="ant-timeline-item">
                       <div class="ant-timeline-item-tail"></div>
                       <div
                         class="ant-timeline-item-head ant-timeline-item-head-blue"
                       ></div>
                       <div class="ant-timeline-item-content">
-                        2016-08 至 2018-05 负责公司内部CRM系统中的客户中心、用户管理、角色管理、渠道管理、合同管理、订单管理、BI数据大屏等模块的前端业务开发，此系统是公司核心系统，大量业务都是服务于公司的运营部门。
+                        2023-07 至今
+                        负责技术部门管理相关的工作，甲方客户项目的需求沟通与确认，产品需求文档的梳理编写，项目的技术选型，底层软件架构的搭建，通用的中间件开发及维护，公司资产安全相关技术组件搭建，重点难点项目的全栈开发，公司运维平台的搭建以及日常的服务器、数据库运维工作，老旧项目的业务梳理与重构等。
                       </div>
                     </li>
                     <li class="ant-timeline-item">
@@ -253,17 +277,68 @@
                         class="ant-timeline-item-head ant-timeline-item-head-blue"
                       ></div>
                       <div class="ant-timeline-item-content">
-                        2018-05 至 2019-08 负责CRM客户社交平台的公众号开发、hybrid app 前端业务开发。主要模块有：用户注册登录、订单支付、礼物商城、数据统计分析、客户列表、好友管理、动态发布、聊天记录、个人中心导航、统计报表等模块。
+                        2021-06 至今
+                        移动综合资源管理系统：负责黑龙江综资系统的二开研发，主要负责的业务有：无线资源、空间资源、动环资源、家客资源、验收模块、全生命周期模块、运维长流程模块等。
+                        虽然是研发岗位，但是身兼数职，涉及到业务需求对接、业务文档编写、数据结构建模、相关的前后台代码架构、业务代码开发、面向客户的实施工作、与甲方客户及众多三方平台沟通合作、
+                        底层数据的迁移汇总、数据决策报表开发、数据报表的通用脚本及相关使用文档编写：<a
+                          href="https://zedwanger.github.io/myblog/docs/report/01.html#_1-%E5%89%8D%E8%A8%80"
+                          >https://zedwanger.github.io/myblog/docs/report/01.html#_1-%E5%89%8D%E8%A8%80</a
+                        >
+                        密码：wzd5566700。
                       </div>
                     </li>
-                  
                     <li class="ant-timeline-item">
                       <div class="ant-timeline-item-tail"></div>
                       <div
                         class="ant-timeline-item-head ant-timeline-item-head-blue"
                       ></div>
                       <div class="ant-timeline-item-content">
-                        2020-05 至 2020-07 MES系统： MES系统是公司内部的工厂管理系统，使用于广州分公司工厂，
+                        2020-08 至 2021-02
+                        MYJIT系统：MYJIT系统是公司内部的订单管理系统，其主要作用是接收ERP系统的订单，然后经由AI部门的审核，修改之后分发到工厂系统之中。
+                        系统的模块有：概况、产品管理、采购管理、AI管理、操作记录、厂商管理、系统管理、供应商登录、接单管理、出货管理、异常管理、加急出货、待接单管理。
+                      </div>
+                    </li>
+                    <li class="ant-timeline-item">
+                      <div class="ant-timeline-item-tail"></div>
+                      <div
+                        class="ant-timeline-item-head ant-timeline-item-head-blue"
+                      ></div>
+                      <div class="ant-timeline-item-content">
+                        2021-02 至 2021-05
+                        OA系统：OA系统是公司内部的人资部门使用的办公系统，用于个性化管理公司的员工晋升，组织架构人员，OKR绩效，金币管理，金币商城等，
+                        对接钉钉审批流业务的后台管理，记录员工的考勤等功能。目前系统还处于开发中。
+                      </div>
+                    </li>
+                    <li class="ant-timeline-item">
+                      <div class="ant-timeline-item-tail"></div>
+                      <div
+                        class="ant-timeline-item-head ant-timeline-item-head-blue"
+                      ></div>
+                      <div class="ant-timeline-item-content">
+                        2020-08 至 2021-02
+                        MYJIT系统：MYJIT系统是公司内部的订单管理系统，其主要作用是接收ERP系统的订单，然后经由AI部门的审核，修改之后分发到工厂系统之中。
+                        系统的模块有：概况、产品管理、采购管理、AI管理、操作记录、厂商管理、系统管理、供应商登录、接单管理、出货管理、异常管理、加急出货、待接单管理。
+                      </div>
+                    </li>
+                    <li class="ant-timeline-item">
+                      <div class="ant-timeline-item-tail"></div>
+                      <div
+                        class="ant-timeline-item-head ant-timeline-item-head-blue"
+                      ></div>
+                      <div class="ant-timeline-item-content">
+                        2020-07 至 2020-08 负责MYREVIEW的后台开发（nodejs
+                        egg）：商品评论系统为商城系统的子系统，嵌入到商城页面的底部，可以根据不同站点，不同的产品生成商品评论页面，可以发送邮件邀请购买商品的人评论此商品。其开发的原因主要是兼容老商城系统的前端页面。
+                        商城系统前端工程师通过引入打包好的前端js库进行业务配置即可生成对应的评论列表页。此系统的后台管理系统可以对站点，语言进行动态配置。根据XML配置文件定时从ERP系统拉取数据，也可以手动进行数据同步。
+                      </div>
+                    </li>
+                    <li class="ant-timeline-item">
+                      <div class="ant-timeline-item-tail"></div>
+                      <div
+                        class="ant-timeline-item-head ant-timeline-item-head-blue"
+                      ></div>
+                      <div class="ant-timeline-item-content">
+                        2020-05 至 2020-07 MES系统：
+                        MES系统是公司内部的工厂管理系统，使用于广州分公司工厂，
                         目的是管控工厂车间生产制造的过程以及库存管理、质量管理、人力资源管理、工作中心/设备管理、工具工装管理、采购管理、成本管理、
                         项目看板管理、生产过程控制、底层数据集成分析、上层数据集成分解等管理模块，为企业打造一个扎实、可靠、全面、可行的制造协同管理平台。
                       </div>
@@ -274,63 +349,22 @@
                         class="ant-timeline-item-head ant-timeline-item-head-blue"
                       ></div>
                       <div class="ant-timeline-item-content">
-                        2020-07 至 2020-08 负责MYREVIEW的后台开发（nodejs egg）：商品评论系统为商城系统的子系统，嵌入到商城页面的底部，可以根据不同站点，不同的产品生成商品评论页面，可以发送邮件邀请购买商品的人评论此商品。其开发的原因主要是兼容老商城系统的前端页面。
-                        商城系统前端工程师通过引入打包好的前端js库进行业务配置即可生成对应的评论列表页。此系统的后台管理系统可以对站点，语言进行动态配置。根据XML配置文件定时从ERP系统拉取数据，也可以手动进行数据同步。
+                        2018-05 至 2019-08
+                        负责CRM客户社交平台的公众号开发、hybrid app
+                        前端业务开发。主要模块有：用户注册登录、订单支付、礼物商城、数据统计分析、客户列表、好友管理、动态发布、聊天记录、个人中心导航、统计报表等模块。
                       </div>
                     </li>
-                    <li class="ant-timeline-item">
-                      <div class="ant-timeline-item-tail"></div>
-                      <div
-                        class="ant-timeline-item-head ant-timeline-item-head-blue"
-                      ></div>
-                      <div class="ant-timeline-item-content">
-                        2020-08 至 2021-02 MYJIT系统：MYJIT系统是公司内部的订单管理系统，其主要作用是接收ERP系统的订单，然后经由AI部门的审核，修改之后分发到工厂系统之中。
-                        系统的模块有：概况、产品管理、采购管理、AI管理、操作记录、厂商管理、系统管理、供应商登录、接单管理、出货管理、异常管理、加急出货、待接单管理。
-                      </div>
-                    </li>
-                    <li class="ant-timeline-item">
-                      <div class="ant-timeline-item-tail"></div>
-                      <div
-                        class="ant-timeline-item-head ant-timeline-item-head-blue"
-                      ></div>
-                      <div class="ant-timeline-item-content">
-                        2021-02 至 2021-05 OA系统：OA系统是公司内部的人资部门使用的办公系统，用于个性化管理公司的员工晋升，组织架构人员，OKR绩效，金币管理，金币商城等，
-                        对接钉钉审批流业务的后台管理，记录员工的考勤等功能。目前系统还处于开发中。
-                      </div>
-                    </li>
-
-                    <li class="ant-timeline-item">
-                      <div class="ant-timeline-item-tail"></div>
-                      <div
-                        class="ant-timeline-item-head ant-timeline-item-head-blue"
-                      ></div>
-                      <div class="ant-timeline-item-content">
-                        2020-08 至 2021-02 MYJIT系统：MYJIT系统是公司内部的订单管理系统，其主要作用是接收ERP系统的订单，然后经由AI部门的审核，修改之后分发到工厂系统之中。
-                        系统的模块有：概况、产品管理、采购管理、AI管理、操作记录、厂商管理、系统管理、供应商登录、接单管理、出货管理、异常管理、加急出货、待接单管理。
-                      </div>
-                    </li>
-                    
-                    <li class="ant-timeline-item">
-                      <div class="ant-timeline-item-tail"></div>
-                      <div
-                        class="ant-timeline-item-head ant-timeline-item-head-blue"
-                      ></div>
-                      <div class="ant-timeline-item-content">
-                        2021-06 至今 移动综合资源管理系统：负责黑龙江综资系统的二开研发，主要负责的业务有：无线资源、空间资源、动环资源、家客资源、验收模块、全生命周期模块、运维长流程模块等。
-                        虽然是研发岗位，但是身兼数职，涉及到业务需求对接、业务文档编写、数据结构建模、相关的前后台代码架构、业务代码开发、面向客户的实施工作、与甲方客户及众多三方平台沟通合作、
-                        底层数据的迁移汇总、数据决策报表开发、数据报表的通用脚本及相关使用文档编写：<a href="https://zedwanger.github.io/myblog/docs/report/01.html#_1-%E5%89%8D%E8%A8%80">https://zedwanger.github.io/myblog/docs/report/01.html#_1-%E5%89%8D%E8%A8%80</a> 密码：wzd5566700。
-                      </div>
-                    </li>
-
                     <li class="ant-timeline-item ant-timeline-item-last">
                       <div class="ant-timeline-item-tail"></div>
                       <div
                         class="ant-timeline-item-head ant-timeline-item-head-blue"
                       ></div>
                       <div class="ant-timeline-item-content">
-                        2023-07 至今 负责技术部门管理相关的工作，甲方客户项目的需求沟通与确认，产品需求文档的梳理编写，项目的技术选型，底层软件架构的搭建，通用的中间件开发及维护，公司资产安全相关技术组件搭建，重点难点项目的全栈开发，公司运维平台的搭建以及日常的服务器、数据库运维工作，老旧项目的业务梳理与重构等。
+                        2016-08 至 2018-05
+                        负责公司内部CRM系统中的客户中心、用户管理、角色管理、渠道管理、合同管理、订单管理、BI数据大屏等模块的前端业务开发，此系统是公司核心系统，大量业务都是服务于公司的运营部门。
                       </div>
                     </li>
+
                   </ul>
                 </td>
               </tr>
@@ -339,7 +373,9 @@
                   <span>博客地址</span>
                 </th>
                 <td class="ant-descriptions-item-content" colspan="20">
-                  <a href="https://zedwanger.github.io/myblog/">https://zedwanger.github.io/myblog/</a><br/>密码: wzd123456
+                  <a href="https://zedwanger.github.io/myblog/"
+                    >https://zedwanger.github.io/myblog/</a
+                  ><br />密码: wzd123456
                 </td>
               </tr>
               <tr class="ant-descriptions-row">
@@ -357,17 +393,24 @@
         </div>
       </div>
     </div>
-    <div style="margin-top: 6px;margin-bottom: 1.5rem" class="clearfix">
-      <button style="float: right;" @click="print" type="button" class="ant-btn ant-btn-primary ant-btn-lg"><span>打印</span></button>
+    <div style="margin-top: 6px; margin-bottom: 1.5rem" class="clearfix">
+      <button
+        style="float: right"
+        @click="print"
+        type="button"
+        class="ant-btn ant-btn-primary ant-btn-lg"
+      >
+        <span>打印</span>
+      </button>
     </div>
   </div>
 </template>
 
 <style>
-.clearfix::after{
-    display: block;
-    content: "";
-    clear: both;
+.clearfix::after {
+  display: block;
+  content: "";
+  clear: both;
 }
 [class*="ant-"],
 [class*="ant-"] *,
@@ -385,11 +428,10 @@
   letter-spacing: 0.05rem;
 }
 
-.ant-descriptions-item-label.ant-nowrap{
+.ant-descriptions-item-label.ant-nowrap {
   /* text-align-last:justify; */
   white-space: nowrap;
 }
-
 
 .ant-descriptions-view tr:nth-child(2n) {
   background-color: #fff;
@@ -460,7 +502,7 @@
   border-right: none;
 }
 
-.ant-descriptions-bordered .ant-descriptions-item-content.ant-border-right{
+.ant-descriptions-bordered .ant-descriptions-item-content.ant-border-right {
   border-right: 1px solid #f0f0f0;
 }
 
@@ -517,56 +559,57 @@
   display: none;
 }
 
-button{
-    text-transform: none;
-    overflow: visible;
-    color: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    line-height: inherit;
-    margin: 0;
+button {
+  text-transform: none;
+  overflow: visible;
+  color: inherit;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  margin: 0;
 }
-
 
 .ant-btn-lg {
-    border-radius: 2px;
-    font-size: 12px;
-    height: 40px;
-    padding: 6.4px 15px;
+  border-radius: 2px;
+  font-size: 12px;
+  height: 40px;
+  padding: 6.4px 15px;
 }
-.ant-btn, .ant-btn:active, .ant-btn:focus {
-    outline: 0;
+.ant-btn,
+.ant-btn:active,
+.ant-btn:focus {
+  outline: 0;
 }
 .ant-btn {
-    background-image: none;
-    background: #fff;
-    border: 1px solid #d9d9d9;
-    border-radius: 2px;
-    box-shadow: 0 2px 0 rgb(0 0 0 / 2%);
-    color: rgba(0,0,0,.85);
-    cursor: pointer;
-    display: inline-block;
-    font-size: 12px;
-    font-weight: 400;
-    height: 32px;
-    line-height: 1.5715;
-    padding: 4px 15px;
-    position: relative;
-    text-align: center;
-    touch-action: manipulation;
-    transition: all .3s cubic-bezier(.645,.045,.355,1);
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-    white-space: nowrap;
+  background-image: none;
+  background: #fff;
+  border: 1px solid #d9d9d9;
+  border-radius: 2px;
+  box-shadow: 0 2px 0 rgb(0 0 0 / 2%);
+  color: rgba(0, 0, 0, 0.85);
+  cursor: pointer;
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 400;
+  height: 32px;
+  line-height: 1.5715;
+  padding: 4px 15px;
+  position: relative;
+  text-align: center;
+  touch-action: manipulation;
+  transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  white-space: nowrap;
 }
 .ant-btn-primary {
-    background: #1890ff;
-    border-color: #1890ff;
-    box-shadow: 0 2px 0 rgb(0 0 0 / 5%);
-    color: #fff;
-    text-shadow: 0 -1px 0 rgb(0 0 0 / 12%);
+  background: #1890ff;
+  border-color: #1890ff;
+  box-shadow: 0 2px 0 rgb(0 0 0 / 5%);
+  color: #fff;
+  text-shadow: 0 -1px 0 rgb(0 0 0 / 12%);
 }
 </style>
 
@@ -581,7 +624,10 @@ export default {
       let iframe = null;
       iframe = document.createElement("IFRAME");
       iframe.setAttribute("id", "print-iframe");
-      iframe.setAttribute('style', 'position:absolute;width:0px;height:0px;left:-500px;top:-500px;')
+      iframe.setAttribute(
+        "style",
+        "position:absolute;width:0px;height:0px;left:-500px;top:-500px;"
+      );
       document.body.appendChild(iframe);
       doc = iframe.contentWindow.document;
       //这里可以自定义样式
@@ -795,12 +841,12 @@ button{
       doc.write("<title>简历</title>");
       doc.write("<div>" + el.innerHTML + "</div>");
       doc.close();
-      
-      iframe.contentWindow.focus()
+
+      iframe.contentWindow.focus();
       iframe.contentWindow.onload = function () {
-        iframe.contentWindow.print()
-      }
-    }
+        iframe.contentWindow.print();
+      };
+    },
   },
 };
 </script>

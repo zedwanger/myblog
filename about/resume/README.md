@@ -1,6 +1,6 @@
 ---
 title: "简历"
-date: 2020-11-11 13:56:00
+date: 2024-07-16 13:56:00
 sidebar: "auto"
 keys:
   - "18aaa76c84271780ed67a8ac1e31d47d"
@@ -101,8 +101,8 @@ isShowComments: true
 ![An image](https://v1.ax1x.com/2023/03/24/02yo7w.jpg)
 - **后台管理**
 ![An image](https://v1.ax1x.com/2023/03/24/02y2dt.jpg)
-- **合同信息**
-![An image](https://v1.ax1x.com/2023/03/24/02yFwb.jpg)
+<!-- - **合同信息**
+![An image](https://v1.ax1x.com/2023/03/24/02yFwb.jpg) -->
 - **组织机构**
 ![An image](https://v1.ax1x.com/2023/03/24/02ydiP.jpg)
 
